@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,City,State,ProductID,ProductName,Category,Quantity,UnitPrice,Discount,OrderStatus
+O10001,2026-04-13,C1184,Kolkata,West Bengal,P002,Smartphone,Electronics,4,25000,15,Delivered
+O10002,2026-09-28,C1030,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,5,Delivered
+O10003,2026-04-17,C1057,Pune,Maharashtra,P004,Office Chair,Furniture,2,9000,0,Delivered
+O10004,2026-03-13,C1047,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,4,2500,5,Delivered
+O10005,2026-07-08,C1163,Hyderabad,Telangana,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10006,2026-01-21,C1019,Jaipur,Rajasthan,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10007,2026-04-13,C1114,Kolkata,West Bengal,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10008,2026-05-02,C1008,Delhi,Delhi,P005,Desk Lamp,Furniture,3,1800,15,Delivered
+O10009,2026-08-03,C1026,Mumbai,Maharashtra,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10010,2026-03-29,C1113,Pune,Maharashtra,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10011,2026-04-10,C1071,Jaipur,Rajasthan,P007,T-Shirt,Clothing,4,1200,0,Delivered
+O10012,2026-06-01,C1030,Kolkata,West Bengal,P002,Smartphone,Electronics,2,25000,0,Delivered
+O10013,2026-05-11,C1135,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10014,2026-05-30,C1067,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,3,3500,10,Delivered
+O10015,2026-09-15,C1065,Pune,Maharashtra,P006,Running Shoes,Footwear,2,3500,15,Delivered
+O10016,2026-07-11,C1036,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10017,2026-06-10,C1025,Kolkata,West Bengal,P010,Watch,Accessories,3,4500,0,Delivered
+O10018,2026-01-22,C1037,Pune,Maharashtra,P007,T-Shirt,Clothing,2,1200,10,Delivered
+O10019,2026-09-10,C1001,Jaipur,Rajasthan,P010,Watch,Accessories,1,4500,5,Delivered
+O10020,2026-08-24,C1143,Kolkata,West Bengal,P008,Jeans,Clothing,1,2500,0,Delivered
+O10021,2026-02-18,C1037,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10022,2026-02-28,C1141,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10023,2026-06-19,C1136,Jaipur,Rajasthan,P001,Laptop,Electronics,4,55000,10,Delivered
+O10024,2026-07-07,C1133,Pune,Maharashtra,P005,Desk Lamp,Furniture,3,1800,5,Returned
+O10025,2026-09-28,C1188,Chennai,Tamil Nadu,P010,Watch,Accessories,1,4500,5,Delivered
+O10026,2026-07-09,C1128,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,3,25000,5,Cancelled
+O10027,2026-06-24,C1127,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10028,2026-02-20,C1001,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10029,2026-02-24,C1164,Pune,Maharashtra,P002,Smartphone,Electronics,4,25000,15,Delivered
+O10030,2026-09-01,C1035,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,4,1800,0,Delivered
+O10031,2026-05-11,C1194,Delhi,Delhi,P004,Office Chair,Furniture,3,9000,15,Returned
+O10032,2026-05-15,C1191,Kolkata,West Bengal,P001,Laptop,Electronics,1,55000,5,Delivered
+O10033,2026-01-21,C1104,Mumbai,Maharashtra,P003,Headphones,Electronics,3,2500,10,Delivered
+O10034,2026-06-16,C1023,Bengaluru,Karnataka,P001,Laptop,Electronics,3,55000,10,Delivered
+O10035,2026-03-30,C1009,Pune,Maharashtra,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10036,2026-01-14,C1034,Hyderabad,Telangana,P004,Office Chair,Furniture,2,9000,5,Delivered
+O10037,2026-08-30,C1174,Bengaluru,Karnataka,P007,T-Shirt,Clothing,2,1200,0,Delivered
+O10038,2026-09-22,C1128,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,1,1800,0,Cancelled
+O10039,2026-02-22,C1004,Pune,Maharashtra,P010,Watch,Accessories,1,4500,15,Delivered
+O10040,2026-04-02,C1158,Ahmedabad,Gujarat,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10041,2026-09-21,C1102,Hyderabad,Telangana,P002,Smartphone,Electronics,2,25000,15,Delivered
+O10042,2026-02-04,C1075,Mumbai,Maharashtra,P004,Office Chair,Furniture,1,9000,5,Delivered
+O10043,2026-07-25,C1099,Chennai,Tamil Nadu,P002,Smartphone,Electronics,4,25000,5,Delivered
+O10044,2026-03-22,C1072,Ahmedabad,Gujarat,P008,Jeans,Clothing,1,2500,0,Delivered
+O10045,2026-02-19,C1003,Bengaluru,Karnataka,P003,Headphones,Electronics,1,2500,20,Delivered
+O10046,2026-01-02,C1142,Kolkata,West Bengal,P009,Backpack,Accessories,1,1800,10,Delivered
+O10047,2026-02-23,C1188,Delhi,Delhi,P004,Office Chair,Furniture,2,9000,15,Delivered
+O10048,2026-04-16,C1173,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,4,3500,5,Cancelled
+O10049,2026-09-17,C1034,Ahmedabad,Gujarat,P010,Watch,Accessories,1,4500,10,Delivered
+O10050,2026-07-10,C1045,Kolkata,West Bengal,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10051,2026-08-06,C1061,Kolkata,West Bengal,P010,Watch,Accessories,3,4500,5,Delivered
+O10052,2026-02-13,C1083,Pune,Maharashtra,P001,Laptop,Electronics,3,55000,15,Delivered
+O10053,2026-06-11,C1123,Ahmedabad,Gujarat,P009,Backpack,Accessories,1,1800,15,Delivered
+O10054,2026-07-21,C1102,Mumbai,Maharashtra,P001,Laptop,Electronics,3,55000,15,Delivered
+O10055,2026-09-27,C1016,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,4,2500,10,Delivered
+O10056,2026-09-28,C1066,Hyderabad,Telangana,P009,Backpack,Accessories,3,1800,5,Delivered
+O10057,2026-08-03,C1168,Hyderabad,Telangana,P009,Backpack,Accessories,3,1800,5,Delivered
+O10058,2026-09-09,C1145,Bengaluru,Karnataka,P001,Laptop,Electronics,4,55000,20,Delivered
+O10059,2026-07-09,C1119,Bengaluru,Karnataka,P002,Smartphone,Electronics,1,25000,0,Delivered
+O10060,2026-08-01,C1162,Hyderabad,Telangana,P001,Laptop,Electronics,1,55000,10,Delivered
+O10061,2026-07-27,C1124,Mumbai,Maharashtra,P010,Watch,Accessories,4,4500,10,Delivered
+O10062,2026-08-25,C1144,Delhi,Delhi,P002,Smartphone,Electronics,4,25000,10,Delivered
+O10063,2026-02-22,C1102,Jaipur,Rajasthan,P010,Watch,Accessories,4,4500,20,Delivered
+O10064,2026-08-05,C1188,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,3,2500,5,Delivered
+O10065,2026-09-09,C1066,Delhi,Delhi,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10066,2026-07-07,C1194,Pune,Maharashtra,P007,T-Shirt,Clothing,2,1200,0,Cancelled
+O10067,2026-02-10,C1013,Jaipur,Rajasthan,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10068,2026-06-06,C1184,Jaipur,Rajasthan,P008,Jeans,Clothing,1,2500,5,Returned
+O10069,2026-01-15,C1111,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,1,3500,5,Delivered
+O10070,2026-03-06,C1159,Mumbai,Maharashtra,P008,Jeans,Clothing,1,2500,15,Delivered
+O10071,2026-01-09,C1034,Mumbai,Maharashtra,P001,Laptop,Electronics,3,55000,15,Delivered
+O10072,2026-05-09,C1039,Jaipur,Rajasthan,P001,Laptop,Electronics,2,55000,5,Delivered
+O10073,2026-05-16,C1195,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10074,2026-03-04,C1136,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,4,2500,15,Delivered
+O10075,2026-05-19,C1120,Jaipur,Rajasthan,P003,Headphones,Electronics,1,2500,0,Returned
+O10076,2026-03-22,C1126,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,1,1800,0,Delivered
+O10077,2026-06-12,C1055,Bengaluru,Karnataka,P001,Laptop,Electronics,3,55000,5,Delivered
+O10078,2026-09-18,C1027,Bengaluru,Karnataka,P007,T-Shirt,Clothing,2,1200,10,Delivered
+O10079,2026-08-19,C1118,Delhi,Delhi,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10080,2026-02-10,C1053,Pune,Maharashtra,P008,Jeans,Clothing,3,2500,20,Delivered
+O10081,2026-01-28,C1039,Bengaluru,Karnataka,P008,Jeans,Clothing,4,2500,10,Delivered
+O10082,2026-05-15,C1065,Kolkata,West Bengal,P009,Backpack,Accessories,1,1800,10,Returned
+O10083,2026-07-20,C1145,Delhi,Delhi,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10084,2026-09-25,C1158,Bengaluru,Karnataka,P001,Laptop,Electronics,2,55000,10,Delivered
+O10085,2026-02-02,C1181,Pune,Maharashtra,P003,Headphones,Electronics,2,2500,10,Delivered
+O10086,2026-02-17,C1013,Mumbai,Maharashtra,P008,Jeans,Clothing,1,2500,15,Delivered
+O10087,2026-03-03,C1021,Mumbai,Maharashtra,P003,Headphones,Electronics,2,2500,15,Delivered
+O10088,2026-08-04,C1147,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,2,2500,10,Delivered
+O10089,2026-04-09,C1053,Jaipur,Rajasthan,P001,Laptop,Electronics,3,55000,15,Delivered
+O10090,2026-06-21,C1019,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,4,1800,15,Delivered
+O10091,2026-08-02,C1057,Mumbai,Maharashtra,P004,Office Chair,Furniture,1,9000,15,Delivered
+O10092,2026-02-04,C1025,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,1,1800,0,Cancelled
+O10093,2026-08-15,C1031,Bengaluru,Karnataka,P008,Jeans,Clothing,1,2500,0,Delivered
+O10094,2026-04-11,C1081,Ahmedabad,Gujarat,P010,Watch,Accessories,1,4500,5,Delivered
+O10095,2026-05-11,C1183,Pune,Maharashtra,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10096,2026-09-14,C1023,Mumbai,Maharashtra,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10097,2026-01-05,C1032,Chennai,Tamil Nadu,P003,Headphones,Electronics,3,2500,10,Delivered
+O10098,2026-08-06,C1190,Pune,Maharashtra,P007,T-Shirt,Clothing,1,1200,15,Delivered
+O10099,2026-09-12,C1074,Kolkata,West Bengal,P003,Headphones,Electronics,3,2500,15,Delivered
+O10100,2026-07-26,C1010,Kolkata,West Bengal,P003,Headphones,Electronics,3,2500,15,Delivered
+O10101,2026-01-15,C1200,Ahmedabad,Gujarat,P010,Watch,Accessories,2,4500,5,Delivered
+O10102,2026-02-11,C1054,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10103,2026-06-28,C1052,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,5,Delivered
+O10104,2026-03-04,C1148,Jaipur,Rajasthan,P006,Running Shoes,Footwear,1,3500,5,Delivered
+O10105,2026-08-19,C1160,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,2,2500,5,Delivered
+O10106,2026-08-29,C1114,Jaipur,Rajasthan,P010,Watch,Accessories,3,4500,5,Delivered
+O10107,2026-02-21,C1014,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10108,2026-04-06,C1178,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,4,55000,15,Cancelled
+O10109,2026-08-10,C1156,Chennai,Tamil Nadu,P008,Jeans,Clothing,3,2500,0,Delivered
+O10110,2026-08-19,C1110,Mumbai,Maharashtra,P008,Jeans,Clothing,4,2500,10,Cancelled
+O10111,2026-08-25,C1053,Chennai,Tamil Nadu,P009,Backpack,Accessories,3,1800,10,Delivered
+O10112,2026-05-23,C1152,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,2,1800,5,Delivered
+O10113,2026-06-20,C1079,Pune,Maharashtra,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10114,2026-01-29,C1022,Kolkata,West Bengal,P002,Smartphone,Electronics,3,25000,5,Cancelled
+O10115,2026-02-05,C1030,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,2,2500,10,Delivered
+O10116,2026-01-13,C1191,Chennai,Tamil Nadu,P001,Laptop,Electronics,1,55000,10,Delivered
+O10117,2026-06-09,C1004,Pune,Maharashtra,P004,Office Chair,Furniture,1,9000,5,Delivered
+O10118,2026-07-06,C1059,Chennai,Tamil Nadu,P004,Office Chair,Furniture,3,9000,0,Delivered
+O10119,2026-08-31,C1008,Jaipur,Rajasthan,P009,Backpack,Accessories,1,1800,10,Delivered
+O10120,2026-03-27,C1012,Bengaluru,Karnataka,P009,Backpack,Accessories,3,1800,15,Delivered
+O10121,2026-03-07,C1119,Ahmedabad,Gujarat,P009,Backpack,Accessories,1,1800,5,Delivered
+O10122,2026-06-19,C1159,Delhi,Delhi,P010,Watch,Accessories,4,4500,10,Delivered
+O10123,2026-02-14,C1034,Chennai,Tamil Nadu,P007,T-Shirt,Clothing,2,1200,10,Delivered
+O10124,2026-03-03,C1082,Delhi,Delhi,P002,Smartphone,Electronics,4,25000,15,Delivered
+O10125,2026-05-14,C1098,Hyderabad,Telangana,P010,Watch,Accessories,3,4500,15,Delivered
+O10126,2026-01-28,C1127,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10127,2026-04-18,C1075,Bengaluru,Karnataka,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10128,2026-02-13,C1105,Delhi,Delhi,P008,Jeans,Clothing,1,2500,15,Delivered
+O10129,2026-05-08,C1049,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,1,25000,5,Delivered
+O10130,2026-08-19,C1079,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10131,2026-07-09,C1185,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,4,1800,0,Delivered
+O10132,2026-08-13,C1093,Ahmedabad,Gujarat,P002,Smartphone,Electronics,1,25000,15,Delivered
+O10133,2026-05-01,C1154,Bengaluru,Karnataka,P010,Watch,Accessories,2,4500,15,Delivered
+O10134,2026-04-26,C1018,Delhi,Delhi,P001,Laptop,Electronics,1,55000,0,Delivered
+O10135,2026-08-21,C1096,Bengaluru,Karnataka,P008,Jeans,Clothing,2,2500,10,Delivered
+O10136,2026-09-16,C1038,Pune,Maharashtra,P002,Smartphone,Electronics,4,25000,10,Returned
+O10137,2026-07-17,C1087,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,2,1200,0,Delivered
+O10138,2026-05-17,C1088,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,2,1800,20,Delivered
+O10139,2026-06-14,C1050,Chennai,Tamil Nadu,P009,Backpack,Accessories,2,1800,5,Delivered
+O10140,2026-08-13,C1008,Chennai,Tamil Nadu,P008,Jeans,Clothing,2,2500,0,Returned
+O10141,2026-08-22,C1169,Chennai,Tamil Nadu,P010,Watch,Accessories,1,4500,10,Delivered
+O10142,2026-06-21,C1134,Ahmedabad,Gujarat,P009,Backpack,Accessories,2,1800,10,Delivered
+O10143,2026-06-01,C1069,Mumbai,Maharashtra,P002,Smartphone,Electronics,1,25000,0,Delivered
+O10144,2026-06-09,C1172,Hyderabad,Telangana,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10145,2026-04-06,C1121,Kolkata,West Bengal,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10146,2026-08-21,C1064,Jaipur,Rajasthan,P004,Office Chair,Furniture,4,9000,0,Delivered
+O10147,2026-06-29,C1157,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,5,Delivered
+O10148,2026-04-23,C1156,Mumbai,Maharashtra,P003,Headphones,Electronics,3,2500,10,Delivered
+O10149,2026-02-21,C1139,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,2,55000,5,Delivered
+O10150,2026-09-25,C1121,Delhi,Delhi,P008,Jeans,Clothing,2,2500,15,Delivered
+O10151,2026-04-23,C1065,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,2,1800,15,Returned
+O10152,2026-04-11,C1107,Bengaluru,Karnataka,P003,Headphones,Electronics,3,2500,20,Delivered
+O10153,2026-04-23,C1147,Lucknow,Uttar Pradesh,P010,Watch,Accessories,4,4500,5,Delivered
+O10154,2026-03-22,C1137,Delhi,Delhi,P007,T-Shirt,Clothing,3,1200,20,Delivered
+O10155,2026-07-06,C1155,Chennai,Tamil Nadu,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10156,2026-04-23,C1162,Delhi,Delhi,P001,Laptop,Electronics,2,55000,5,Returned
+O10157,2026-01-02,C1172,Bengaluru,Karnataka,P009,Backpack,Accessories,1,1800,0,Delivered
+O10158,2026-05-10,C1196,Chennai,Tamil Nadu,P002,Smartphone,Electronics,2,25000,0,Delivered
+O10159,2026-08-08,C1100,Hyderabad,Telangana,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10160,2026-02-23,C1082,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10161,2026-08-12,C1143,Pune,Maharashtra,P008,Jeans,Clothing,2,2500,5,Delivered
+O10162,2026-08-13,C1051,Jaipur,Rajasthan,P008,Jeans,Clothing,3,2500,10,Delivered
+O10163,2026-05-06,C1141,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,3,1200,5,Delivered
+O10164,2026-05-10,C1083,Jaipur,Rajasthan,P007,T-Shirt,Clothing,3,1200,10,Returned
+O10165,2026-02-22,C1177,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,2,3500,5,Returned
+O10166,2026-06-21,C1198,Jaipur,Rajasthan,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10167,2026-08-06,C1112,Chennai,Tamil Nadu,P009,Backpack,Accessories,3,1800,15,Returned
+O10168,2026-06-09,C1056,Hyderabad,Telangana,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10169,2026-07-17,C1179,Pune,Maharashtra,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10170,2026-09-04,C1165,Mumbai,Maharashtra,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10171,2026-07-22,C1145,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,4,1800,15,Delivered
+O10172,2026-07-03,C1186,Bengaluru,Karnataka,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10173,2026-05-03,C1157,Ahmedabad,Gujarat,P002,Smartphone,Electronics,4,25000,5,Delivered
+O10174,2026-09-12,C1161,Delhi,Delhi,P003,Headphones,Electronics,3,2500,0,Delivered
+O10175,2026-04-08,C1060,Hyderabad,Telangana,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10176,2026-07-17,C1120,Delhi,Delhi,P008,Jeans,Clothing,1,2500,10,Delivered
+O10177,2026-08-28,C1183,Pune,Maharashtra,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10178,2026-05-24,C1138,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,1,1800,5,Delivered
+O10179,2026-04-07,C1175,Mumbai,Maharashtra,P001,Laptop,Electronics,2,55000,5,Delivered
+O10180,2026-07-20,C1023,Pune,Maharashtra,P008,Jeans,Clothing,1,2500,15,Delivered
+O10181,2026-05-04,C1149,Jaipur,Rajasthan,P003,Headphones,Electronics,3,2500,15,Delivered
+O10182,2026-07-06,C1013,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10183,2026-09-16,C1101,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,10,Delivered
+O10184,2026-05-28,C1161,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10185,2026-09-09,C1024,Hyderabad,Telangana,P007,T-Shirt,Clothing,3,1200,15,Delivered
+O10186,2026-05-27,C1108,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,2,1800,0,Delivered
+O10187,2026-05-28,C1011,Pune,Maharashtra,P005,Desk Lamp,Furniture,1,1800,15,Delivered
+O10188,2026-07-18,C1017,Pune,Maharashtra,P008,Jeans,Clothing,1,2500,10,Delivered
+O10189,2026-05-08,C1196,Kolkata,West Bengal,P010,Watch,Accessories,2,4500,10,Returned
+O10190,2026-02-08,C1175,Chennai,Tamil Nadu,P010,Watch,Accessories,2,4500,0,Returned
+O10191,2026-05-09,C1025,Ahmedabad,Gujarat,P008,Jeans,Clothing,3,2500,10,Delivered
+O10192,2026-09-24,C1094,Ahmedabad,Gujarat,P001,Laptop,Electronics,1,55000,10,Delivered
+O10193,2026-05-31,C1021,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,5,Delivered
+O10194,2026-04-09,C1084,Jaipur,Rajasthan,P003,Headphones,Electronics,1,2500,10,Delivered
+O10195,2026-09-20,C1140,Chennai,Tamil Nadu,P001,Laptop,Electronics,2,55000,20,Returned
+O10196,2026-09-09,C1037,Hyderabad,Telangana,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10197,2026-05-24,C1042,Hyderabad,Telangana,P008,Jeans,Clothing,4,2500,10,Delivered
+O10198,2026-04-22,C1145,Ahmedabad,Gujarat,P003,Headphones,Electronics,3,2500,0,Delivered
+O10199,2026-03-01,C1101,Hyderabad,Telangana,P010,Watch,Accessories,1,4500,10,Cancelled
+O10200,2026-01-02,C1048,Kolkata,West Bengal,P002,Smartphone,Electronics,4,25000,0,Delivered
+O10201,2026-09-11,C1103,Pune,Maharashtra,P009,Backpack,Accessories,1,1800,10,Delivered
+O10202,2026-05-20,C1028,Bengaluru,Karnataka,P010,Watch,Accessories,1,4500,15,Delivered
+O10203,2026-02-06,C1041,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10204,2026-06-09,C1099,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,0,Delivered
+O10205,2026-01-09,C1047,Jaipur,Rajasthan,P002,Smartphone,Electronics,1,25000,5,Delivered
+O10206,2026-08-21,C1146,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,3,1800,10,Returned
+O10207,2026-04-09,C1105,Jaipur,Rajasthan,P009,Backpack,Accessories,4,1800,10,Returned
+O10208,2026-05-27,C1124,Mumbai,Maharashtra,P004,Office Chair,Furniture,4,9000,15,Returned
+O10209,2026-07-27,C1199,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,2,9000,15,Delivered
+O10210,2026-05-11,C1013,Bengaluru,Karnataka,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10211,2026-06-01,C1141,Ahmedabad,Gujarat,P010,Watch,Accessories,3,4500,5,Delivered
+O10212,2026-02-23,C1100,Kolkata,West Bengal,P010,Watch,Accessories,1,4500,5,Delivered
+O10213,2026-04-30,C1031,Pune,Maharashtra,P010,Watch,Accessories,1,4500,0,Delivered
+O10214,2026-06-10,C1130,Pune,Maharashtra,P006,Running Shoes,Footwear,2,3500,5,Delivered
+O10215,2026-04-26,C1016,Kolkata,West Bengal,P001,Laptop,Electronics,1,55000,10,Delivered
+O10216,2026-03-16,C1137,Chennai,Tamil Nadu,P009,Backpack,Accessories,3,1800,10,Delivered
+O10217,2026-04-23,C1073,Mumbai,Maharashtra,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10218,2026-04-14,C1166,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10219,2026-09-11,C1054,Bengaluru,Karnataka,P009,Backpack,Accessories,1,1800,5,Delivered
+O10220,2026-08-15,C1184,Hyderabad,Telangana,P004,Office Chair,Furniture,3,9000,5,Delivered
+O10221,2026-04-22,C1100,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,1,2500,5,Delivered
+O10222,2026-04-09,C1109,Mumbai,Maharashtra,P007,T-Shirt,Clothing,1,1200,15,Delivered
+O10223,2026-06-02,C1087,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,1,3500,0,Delivered
+O10224,2026-07-13,C1173,Bengaluru,Karnataka,P008,Jeans,Clothing,2,2500,10,Delivered
+O10225,2026-06-12,C1162,Delhi,Delhi,P003,Headphones,Electronics,1,2500,5,Delivered
+O10226,2026-07-27,C1137,Delhi,Delhi,P005,Desk Lamp,Furniture,3,1800,15,Delivered
+O10227,2026-06-18,C1008,Mumbai,Maharashtra,P010,Watch,Accessories,1,4500,10,Delivered
+O10228,2026-06-10,C1007,Ahmedabad,Gujarat,P004,Office Chair,Furniture,3,9000,5,Delivered
+O10229,2026-03-09,C1036,Bengaluru,Karnataka,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10230,2026-05-15,C1018,Bengaluru,Karnataka,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10231,2026-07-14,C1003,Kolkata,West Bengal,P010,Watch,Accessories,3,4500,20,Delivered
+O10232,2026-05-08,C1028,Ahmedabad,Gujarat,P008,Jeans,Clothing,1,2500,5,Delivered
+O10233,2026-02-02,C1070,Jaipur,Rajasthan,P006,Running Shoes,Footwear,1,3500,15,Delivered
+O10234,2026-06-25,C1172,Jaipur,Rajasthan,P003,Headphones,Electronics,3,2500,15,Returned
+O10235,2026-01-22,C1149,Hyderabad,Telangana,P010,Watch,Accessories,4,4500,15,Delivered
+O10236,2026-08-26,C1028,Pune,Maharashtra,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10237,2026-06-07,C1054,Delhi,Delhi,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10238,2026-02-07,C1182,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10239,2026-08-18,C1065,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,1,3500,15,Delivered
+O10240,2026-02-20,C1100,Bengaluru,Karnataka,P008,Jeans,Clothing,2,2500,10,Delivered
+O10241,2026-09-21,C1021,Jaipur,Rajasthan,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10242,2026-01-27,C1013,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10243,2026-08-14,C1057,Jaipur,Rajasthan,P010,Watch,Accessories,4,4500,10,Delivered
+O10244,2026-04-07,C1049,Delhi,Delhi,P006,Running Shoes,Footwear,4,3500,15,Delivered
+O10245,2026-05-27,C1118,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,1,9000,0,Delivered
+O10246,2026-01-04,C1054,Jaipur,Rajasthan,P009,Backpack,Accessories,1,1800,15,Delivered
+O10247,2026-02-04,C1138,Ahmedabad,Gujarat,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10248,2026-07-11,C1053,Jaipur,Rajasthan,P001,Laptop,Electronics,2,55000,15,Returned
+O10249,2026-02-18,C1044,Pune,Maharashtra,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10250,2026-01-17,C1047,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,5,Delivered
+O10251,2026-06-21,C1053,Ahmedabad,Gujarat,P004,Office Chair,Furniture,3,9000,15,Delivered
+O10252,2026-08-08,C1074,Kolkata,West Bengal,P003,Headphones,Electronics,4,2500,5,Delivered
+O10253,2026-06-07,C1046,Ahmedabad,Gujarat,P008,Jeans,Clothing,3,2500,15,Returned
+O10254,2026-02-15,C1013,Pune,Maharashtra,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10255,2026-01-06,C1165,Lucknow,Uttar Pradesh,P010,Watch,Accessories,1,4500,10,Cancelled
+O10256,2026-04-09,C1102,Delhi,Delhi,P007,T-Shirt,Clothing,3,1200,5,Delivered
+O10257,2026-08-21,C1024,Kolkata,West Bengal,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10258,2026-02-06,C1002,Pune,Maharashtra,P004,Office Chair,Furniture,1,9000,5,Delivered
+O10259,2026-06-30,C1081,Pune,Maharashtra,P008,Jeans,Clothing,3,2500,0,Returned
+O10260,2026-04-05,C1100,Mumbai,Maharashtra,P008,Jeans,Clothing,3,2500,5,Delivered
+O10261,2026-04-09,C1142,Delhi,Delhi,P002,Smartphone,Electronics,2,25000,0,Delivered
+O10262,2026-07-07,C1138,Ahmedabad,Gujarat,P002,Smartphone,Electronics,1,25000,20,Delivered
+O10263,2026-04-26,C1163,Bengaluru,Karnataka,P003,Headphones,Electronics,1,2500,20,Delivered
+O10264,2026-07-10,C1153,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,3,2500,5,Returned
+O10265,2026-09-10,C1131,Bengaluru,Karnataka,P001,Laptop,Electronics,3,55000,10,Delivered
+O10266,2026-06-10,C1111,Ahmedabad,Gujarat,P003,Headphones,Electronics,3,2500,5,Delivered
+O10267,2026-09-13,C1102,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10268,2026-05-08,C1017,Delhi,Delhi,P008,Jeans,Clothing,2,2500,15,Delivered
+O10269,2026-01-18,C1012,Ahmedabad,Gujarat,P010,Watch,Accessories,2,4500,15,Returned
+O10270,2026-08-11,C1182,Mumbai,Maharashtra,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10271,2026-02-23,C1116,Kolkata,West Bengal,P005,Desk Lamp,Furniture,4,1800,15,Delivered
+O10272,2026-02-27,C1024,Ahmedabad,Gujarat,P004,Office Chair,Furniture,2,9000,5,Returned
+O10273,2026-06-23,C1029,Bengaluru,Karnataka,P003,Headphones,Electronics,3,2500,20,Delivered
+O10274,2026-04-24,C1171,Ahmedabad,Gujarat,P004,Office Chair,Furniture,4,9000,0,Delivered
+O10275,2026-05-31,C1153,Mumbai,Maharashtra,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10276,2026-05-07,C1122,Jaipur,Rajasthan,P001,Laptop,Electronics,2,55000,10,Delivered
+O10277,2026-06-04,C1188,Jaipur,Rajasthan,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10278,2026-09-30,C1090,Pune,Maharashtra,P001,Laptop,Electronics,4,55000,0,Returned
+O10279,2026-04-14,C1065,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,2,25000,15,Delivered
+O10280,2026-09-03,C1084,Hyderabad,Telangana,P004,Office Chair,Furniture,2,9000,5,Delivered
+O10281,2026-06-25,C1119,Kolkata,West Bengal,P001,Laptop,Electronics,4,55000,10,Cancelled
+O10282,2026-02-08,C1156,Chennai,Tamil Nadu,P009,Backpack,Accessories,3,1800,5,Delivered
+O10283,2026-06-19,C1016,Pune,Maharashtra,P006,Running Shoes,Footwear,1,3500,5,Delivered
+O10284,2026-09-04,C1175,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,4,55000,10,Delivered
+O10285,2026-01-26,C1104,Jaipur,Rajasthan,P001,Laptop,Electronics,4,55000,10,Returned
+O10286,2026-01-13,C1092,Bengaluru,Karnataka,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10287,2026-02-05,C1186,Chennai,Tamil Nadu,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10288,2026-06-22,C1027,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10289,2026-01-20,C1181,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,1,3500,15,Delivered
+O10290,2026-09-21,C1170,Pune,Maharashtra,P007,T-Shirt,Clothing,1,1200,15,Delivered
+O10291,2026-05-22,C1187,Chennai,Tamil Nadu,P009,Backpack,Accessories,1,1800,0,Delivered
+O10292,2026-05-23,C1175,Delhi,Delhi,P010,Watch,Accessories,2,4500,5,Delivered
+O10293,2026-04-02,C1162,Hyderabad,Telangana,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10294,2026-08-03,C1165,Delhi,Delhi,P009,Backpack,Accessories,1,1800,0,Returned
+O10295,2026-02-20,C1134,Chennai,Tamil Nadu,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10296,2026-06-02,C1135,Delhi,Delhi,P010,Watch,Accessories,2,4500,10,Delivered
+O10297,2026-07-05,C1153,Mumbai,Maharashtra,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10298,2026-03-04,C1033,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,5,Delivered
+O10299,2026-07-09,C1055,Mumbai,Maharashtra,P001,Laptop,Electronics,4,55000,0,Delivered
+O10300,2026-05-05,C1186,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,1,3500,15,Delivered
+O10301,2026-05-30,C1007,Delhi,Delhi,P006,Running Shoes,Footwear,3,3500,20,Delivered
+O10302,2026-02-27,C1057,Ahmedabad,Gujarat,P001,Laptop,Electronics,2,55000,0,Delivered
+O10303,2026-06-29,C1126,Bengaluru,Karnataka,P003,Headphones,Electronics,1,2500,5,Delivered
+O10304,2026-06-19,C1012,Kolkata,West Bengal,P005,Desk Lamp,Furniture,3,1800,15,Delivered
+O10305,2026-09-28,C1016,Bengaluru,Karnataka,P003,Headphones,Electronics,3,2500,15,Delivered
+O10306,2026-02-23,C1043,Chennai,Tamil Nadu,P010,Watch,Accessories,3,4500,10,Delivered
+O10307,2026-04-11,C1117,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,2,2500,0,Delivered
+O10308,2026-09-21,C1135,Jaipur,Rajasthan,P010,Watch,Accessories,2,4500,0,Delivered
+O10309,2026-02-22,C1111,Delhi,Delhi,P003,Headphones,Electronics,4,2500,10,Delivered
+O10310,2026-03-01,C1051,Pune,Maharashtra,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10311,2026-04-18,C1160,Kolkata,West Bengal,P005,Desk Lamp,Furniture,3,1800,0,Delivered
+O10312,2026-01-05,C1075,Hyderabad,Telangana,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10313,2026-04-13,C1008,Hyderabad,Telangana,P001,Laptop,Electronics,2,55000,0,Delivered
+O10314,2026-07-15,C1200,Hyderabad,Telangana,P005,Desk Lamp,Furniture,4,1800,15,Delivered
+O10315,2026-09-19,C1045,Delhi,Delhi,P010,Watch,Accessories,3,4500,5,Cancelled
+O10316,2026-02-16,C1059,Hyderabad,Telangana,P005,Desk Lamp,Furniture,4,1800,0,Delivered
+O10317,2026-05-24,C1132,Mumbai,Maharashtra,P004,Office Chair,Furniture,4,9000,10,Returned
+O10318,2026-09-26,C1104,Kolkata,West Bengal,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10319,2026-05-04,C1195,Mumbai,Maharashtra,P010,Watch,Accessories,2,4500,20,Delivered
+O10320,2026-04-16,C1157,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,3,9000,10,Returned
+O10321,2026-06-07,C1157,Kolkata,West Bengal,P007,T-Shirt,Clothing,3,1200,5,Delivered
+O10322,2026-05-27,C1098,Mumbai,Maharashtra,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10323,2026-05-25,C1156,Kolkata,West Bengal,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10324,2026-04-30,C1079,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,2,2500,15,Delivered
+O10325,2026-04-02,C1124,Ahmedabad,Gujarat,P001,Laptop,Electronics,3,55000,5,Delivered
+O10326,2026-02-27,C1172,Delhi,Delhi,P008,Jeans,Clothing,2,2500,10,Delivered
+O10327,2026-08-17,C1004,Delhi,Delhi,P009,Backpack,Accessories,2,1800,0,Delivered
+O10328,2026-04-27,C1090,Hyderabad,Telangana,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10329,2026-05-07,C1104,Bengaluru,Karnataka,P006,Running Shoes,Footwear,1,3500,15,Cancelled
+O10330,2026-05-09,C1137,Hyderabad,Telangana,P009,Backpack,Accessories,1,1800,15,Delivered
+O10331,2026-02-27,C1119,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,4,3500,5,Delivered
+O10332,2026-05-02,C1133,Mumbai,Maharashtra,P009,Backpack,Accessories,3,1800,5,Delivered
+O10333,2026-01-01,C1056,Kolkata,West Bengal,P004,Office Chair,Furniture,4,9000,15,Delivered
+O10334,2026-08-27,C1096,Bengaluru,Karnataka,P008,Jeans,Clothing,2,2500,15,Delivered
+O10335,2026-04-06,C1178,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,1,1800,0,Delivered
+O10336,2026-05-06,C1075,Chennai,Tamil Nadu,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10337,2026-04-28,C1143,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,3,1800,5,Delivered
+O10338,2026-02-17,C1032,Delhi,Delhi,P008,Jeans,Clothing,4,2500,15,Delivered
+O10339,2026-03-30,C1028,Delhi,Delhi,P010,Watch,Accessories,1,4500,0,Cancelled
+O10340,2026-08-25,C1022,Hyderabad,Telangana,P006,Running Shoes,Footwear,4,3500,5,Delivered
+O10341,2026-09-29,C1017,Mumbai,Maharashtra,P007,T-Shirt,Clothing,4,1200,15,Delivered
+O10342,2026-07-08,C1059,Bengaluru,Karnataka,P003,Headphones,Electronics,1,2500,0,Delivered
+O10343,2026-07-11,C1090,Jaipur,Rajasthan,P007,T-Shirt,Clothing,2,1200,10,Delivered
+O10344,2026-03-10,C1199,Chennai,Tamil Nadu,P008,Jeans,Clothing,2,2500,10,Returned
+O10345,2026-09-04,C1106,Chennai,Tamil Nadu,P010,Watch,Accessories,1,4500,5,Delivered
+O10346,2026-03-17,C1185,Hyderabad,Telangana,P006,Running Shoes,Footwear,4,3500,5,Delivered
+O10347,2026-06-03,C1026,Delhi,Delhi,P010,Watch,Accessories,1,4500,10,Delivered
+O10348,2026-05-24,C1025,Hyderabad,Telangana,P009,Backpack,Accessories,2,1800,5,Delivered
+O10349,2026-03-27,C1138,Kolkata,West Bengal,P006,Running Shoes,Footwear,3,3500,10,Delivered
+O10350,2026-07-04,C1045,Bengaluru,Karnataka,P009,Backpack,Accessories,4,1800,15,Delivered
+O10351,2026-08-08,C1083,Mumbai,Maharashtra,P004,Office Chair,Furniture,2,9000,15,Delivered
+O10352,2026-03-10,C1011,Ahmedabad,Gujarat,P008,Jeans,Clothing,4,2500,5,Delivered
+O10353,2026-02-16,C1181,Pune,Maharashtra,P004,Office Chair,Furniture,1,9000,0,Delivered
+O10354,2026-04-04,C1200,Pune,Maharashtra,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10355,2026-08-26,C1104,Hyderabad,Telangana,P010,Watch,Accessories,1,4500,5,Delivered
+O10356,2026-07-23,C1068,Kolkata,West Bengal,P009,Backpack,Accessories,3,1800,10,Delivered
+O10357,2026-08-06,C1095,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10358,2026-02-08,C1156,Jaipur,Rajasthan,P004,Office Chair,Furniture,4,9000,0,Delivered
+O10359,2026-04-10,C1065,Pune,Maharashtra,P002,Smartphone,Electronics,1,25000,0,Delivered
+O10360,2026-09-11,C1049,Bengaluru,Karnataka,P001,Laptop,Electronics,3,55000,5,Delivered
+O10361,2026-08-10,C1175,Mumbai,Maharashtra,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10362,2026-01-23,C1052,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,4,3500,5,Delivered
+O10363,2026-09-07,C1102,Kolkata,West Bengal,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10364,2026-01-10,C1182,Delhi,Delhi,P008,Jeans,Clothing,3,2500,5,Delivered
+O10365,2026-09-03,C1188,Bengaluru,Karnataka,P004,Office Chair,Furniture,4,9000,15,Delivered
+O10366,2026-04-10,C1057,Mumbai,Maharashtra,P008,Jeans,Clothing,2,2500,15,Delivered
+O10367,2026-06-29,C1047,Jaipur,Rajasthan,P007,T-Shirt,Clothing,1,1200,5,Delivered
+O10368,2026-08-11,C1159,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,2,1800,5,Delivered
+O10369,2026-09-07,C1174,Delhi,Delhi,P010,Watch,Accessories,1,4500,10,Delivered
+O10370,2026-05-27,C1026,Ahmedabad,Gujarat,P010,Watch,Accessories,4,4500,5,Delivered
+O10371,2026-04-06,C1114,Jaipur,Rajasthan,P008,Jeans,Clothing,3,2500,10,Returned
+O10372,2026-09-14,C1005,Mumbai,Maharashtra,P009,Backpack,Accessories,3,1800,15,Delivered
+O10373,2026-01-04,C1084,Pune,Maharashtra,P005,Desk Lamp,Furniture,3,1800,10,Returned
+O10374,2026-01-16,C1052,Ahmedabad,Gujarat,P010,Watch,Accessories,1,4500,15,Delivered
+O10375,2026-09-04,C1105,Delhi,Delhi,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10376,2026-09-15,C1054,Hyderabad,Telangana,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10377,2026-06-09,C1161,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10378,2026-06-01,C1178,Bengaluru,Karnataka,P003,Headphones,Electronics,2,2500,5,Delivered
+O10379,2026-06-27,C1166,Pune,Maharashtra,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10380,2026-06-12,C1155,Ahmedabad,Gujarat,P010,Watch,Accessories,1,4500,5,Delivered
+O10381,2026-02-02,C1015,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10382,2026-06-28,C1061,Bengaluru,Karnataka,P008,Jeans,Clothing,2,2500,20,Delivered
+O10383,2026-04-11,C1122,Hyderabad,Telangana,P001,Laptop,Electronics,2,55000,5,Delivered
+O10384,2026-09-25,C1021,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,20,Delivered
+O10385,2026-03-06,C1046,Chennai,Tamil Nadu,P003,Headphones,Electronics,2,2500,20,Delivered
+O10386,2026-06-17,C1197,Mumbai,Maharashtra,P009,Backpack,Accessories,1,1800,15,Cancelled
+O10387,2026-02-12,C1134,Hyderabad,Telangana,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10388,2026-02-13,C1038,Hyderabad,Telangana,P009,Backpack,Accessories,3,1800,10,Returned
+O10389,2026-01-12,C1062,Jaipur,Rajasthan,P009,Backpack,Accessories,2,1800,15,Delivered
+O10390,2026-04-05,C1086,Kolkata,West Bengal,P001,Laptop,Electronics,4,55000,5,Delivered
+O10391,2026-09-10,C1190,Jaipur,Rajasthan,P002,Smartphone,Electronics,4,25000,10,Delivered
+O10392,2026-08-30,C1078,Kolkata,West Bengal,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10393,2026-02-04,C1046,Kolkata,West Bengal,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10394,2026-08-03,C1141,Pune,Maharashtra,P010,Watch,Accessories,1,4500,10,Delivered
+O10395,2026-03-31,C1003,Pune,Maharashtra,P009,Backpack,Accessories,4,1800,5,Delivered
+O10396,2026-09-21,C1006,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10397,2026-04-03,C1093,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10398,2026-03-31,C1008,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,2,1200,5,Delivered
+O10399,2026-04-25,C1172,Mumbai,Maharashtra,P001,Laptop,Electronics,2,55000,15,Delivered
+O10400,2026-04-15,C1108,Ahmedabad,Gujarat,P001,Laptop,Electronics,2,55000,10,Delivered
+O10401,2026-07-15,C1161,Pune,Maharashtra,P008,Jeans,Clothing,4,2500,15,Delivered
+O10402,2026-04-24,C1075,Delhi,Delhi,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10403,2026-03-16,C1077,Delhi,Delhi,P010,Watch,Accessories,4,4500,15,Delivered
+O10404,2026-08-05,C1050,Kolkata,West Bengal,P009,Backpack,Accessories,3,1800,0,Delivered
+O10405,2026-09-06,C1011,Jaipur,Rajasthan,P007,T-Shirt,Clothing,3,1200,15,Delivered
+O10406,2026-06-13,C1095,Mumbai,Maharashtra,P006,Running Shoes,Footwear,4,3500,0,Delivered
+O10407,2026-07-11,C1156,Kolkata,West Bengal,P001,Laptop,Electronics,1,55000,15,Delivered
+O10408,2026-08-15,C1070,Jaipur,Rajasthan,P001,Laptop,Electronics,2,55000,20,Delivered
+O10409,2026-06-26,C1169,Ahmedabad,Gujarat,P002,Smartphone,Electronics,2,25000,5,Returned
+O10410,2026-04-09,C1016,Kolkata,West Bengal,P006,Running Shoes,Footwear,2,3500,5,Returned
+O10411,2026-02-05,C1068,Bengaluru,Karnataka,P006,Running Shoes,Footwear,4,3500,15,Delivered
+O10412,2026-04-06,C1099,Ahmedabad,Gujarat,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10413,2026-06-01,C1048,Jaipur,Rajasthan,P001,Laptop,Electronics,2,55000,15,Delivered
+O10414,2026-05-31,C1184,Mumbai,Maharashtra,P010,Watch,Accessories,3,4500,0,Delivered
+O10415,2026-07-09,C1064,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10416,2026-08-12,C1187,Kolkata,West Bengal,P005,Desk Lamp,Furniture,2,1800,20,Delivered
+O10417,2026-02-06,C1090,Kolkata,West Bengal,P002,Smartphone,Electronics,4,25000,10,Returned
+O10418,2026-09-25,C1190,Hyderabad,Telangana,P006,Running Shoes,Footwear,1,3500,15,Delivered
+O10419,2026-07-02,C1076,Mumbai,Maharashtra,P009,Backpack,Accessories,4,1800,5,Delivered
+O10420,2026-01-13,C1139,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10421,2026-08-05,C1101,Ahmedabad,Gujarat,P010,Watch,Accessories,2,4500,10,Delivered
+O10422,2026-09-30,C1089,Delhi,Delhi,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10423,2026-03-03,C1018,Mumbai,Maharashtra,P003,Headphones,Electronics,3,2500,10,Cancelled
+O10424,2026-03-25,C1019,Delhi,Delhi,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10425,2026-08-05,C1055,Mumbai,Maharashtra,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10426,2026-07-06,C1102,Mumbai,Maharashtra,P008,Jeans,Clothing,3,2500,5,Delivered
+O10427,2026-01-19,C1118,Jaipur,Rajasthan,P008,Jeans,Clothing,2,2500,15,Delivered
+O10428,2026-06-26,C1154,Mumbai,Maharashtra,P006,Running Shoes,Footwear,1,3500,5,Delivered
+O10429,2026-04-10,C1134,Hyderabad,Telangana,P010,Watch,Accessories,1,4500,10,Delivered
+O10430,2026-08-21,C1004,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,2,2500,5,Delivered
+O10431,2026-03-17,C1108,Kolkata,West Bengal,P003,Headphones,Electronics,1,2500,10,Delivered
+O10432,2026-09-22,C1115,Chennai,Tamil Nadu,P001,Laptop,Electronics,4,55000,10,Delivered
+O10433,2026-07-25,C1029,Delhi,Delhi,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10434,2026-08-11,C1059,Kolkata,West Bengal,P005,Desk Lamp,Furniture,1,1800,0,Delivered
+O10435,2026-02-21,C1125,Chennai,Tamil Nadu,P004,Office Chair,Furniture,2,9000,0,Delivered
+O10436,2026-05-24,C1098,Lucknow,Uttar Pradesh,P010,Watch,Accessories,2,4500,10,Delivered
+O10437,2026-03-10,C1017,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,1,9000,15,Delivered
+O10438,2026-04-09,C1107,Delhi,Delhi,P004,Office Chair,Furniture,3,9000,0,Delivered
+O10439,2026-01-25,C1043,Delhi,Delhi,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10440,2026-02-22,C1080,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,3,2500,5,Delivered
+O10441,2026-05-31,C1194,Chennai,Tamil Nadu,P008,Jeans,Clothing,2,2500,10,Delivered
+O10442,2026-05-24,C1162,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10443,2026-02-26,C1008,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10444,2026-02-08,C1141,Bengaluru,Karnataka,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10445,2026-04-19,C1106,Kolkata,West Bengal,P009,Backpack,Accessories,3,1800,0,Delivered
+O10446,2026-06-30,C1008,Jaipur,Rajasthan,P008,Jeans,Clothing,3,2500,0,Delivered
+O10447,2026-02-11,C1096,Kolkata,West Bengal,P010,Watch,Accessories,4,4500,5,Delivered
+O10448,2026-07-05,C1094,Jaipur,Rajasthan,P010,Watch,Accessories,4,4500,0,Delivered
+O10449,2026-08-11,C1065,Chennai,Tamil Nadu,P001,Laptop,Electronics,3,55000,10,Delivered
+O10450,2026-05-02,C1171,Jaipur,Rajasthan,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10451,2026-05-13,C1039,Delhi,Delhi,P009,Backpack,Accessories,2,1800,10,Delivered
+O10452,2026-06-12,C1081,Ahmedabad,Gujarat,P008,Jeans,Clothing,4,2500,5,Delivered
+O10453,2026-08-03,C1187,Ahmedabad,Gujarat,P003,Headphones,Electronics,4,2500,5,Delivered
+O10454,2026-08-09,C1084,Delhi,Delhi,P008,Jeans,Clothing,2,2500,10,Delivered
+O10455,2026-08-23,C1088,Hyderabad,Telangana,P001,Laptop,Electronics,1,55000,20,Delivered
+O10456,2026-05-26,C1086,Chennai,Tamil Nadu,P010,Watch,Accessories,4,4500,0,Delivered
+O10457,2026-08-27,C1093,Hyderabad,Telangana,P004,Office Chair,Furniture,4,9000,15,Delivered
+O10458,2026-03-17,C1086,Hyderabad,Telangana,P003,Headphones,Electronics,1,2500,10,Cancelled
+O10459,2026-01-09,C1044,Kolkata,West Bengal,P006,Running Shoes,Footwear,4,3500,10,Cancelled
+O10460,2026-03-15,C1137,Lucknow,Uttar Pradesh,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10461,2026-09-10,C1165,Kolkata,West Bengal,P004,Office Chair,Furniture,1,9000,0,Delivered
+O10462,2026-08-18,C1074,Lucknow,Uttar Pradesh,P007,T-Shirt,Clothing,1,1200,0,Delivered
+O10463,2026-01-07,C1036,Bengaluru,Karnataka,P009,Backpack,Accessories,3,1800,10,Delivered
+O10464,2026-06-23,C1101,Jaipur,Rajasthan,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10465,2026-05-21,C1156,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,2,2500,15,Delivered
+O10466,2026-06-17,C1170,Delhi,Delhi,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10467,2026-06-19,C1171,Kolkata,West Bengal,P003,Headphones,Electronics,1,2500,0,Delivered
+O10468,2026-05-02,C1170,Chennai,Tamil Nadu,P008,Jeans,Clothing,4,2500,10,Delivered
+O10469,2026-07-13,C1104,Jaipur,Rajasthan,P010,Watch,Accessories,3,4500,5,Delivered
+O10470,2026-01-05,C1066,Bengaluru,Karnataka,P008,Jeans,Clothing,3,2500,10,Returned
+O10471,2026-01-29,C1055,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,1,2500,10,Delivered
+O10472,2026-06-14,C1200,Bengaluru,Karnataka,P009,Backpack,Accessories,4,1800,15,Delivered
+O10473,2026-05-16,C1176,Chennai,Tamil Nadu,P004,Office Chair,Furniture,4,9000,15,Returned
+O10474,2026-05-25,C1091,Hyderabad,Telangana,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10475,2026-08-05,C1022,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10476,2026-05-12,C1101,Chennai,Tamil Nadu,P008,Jeans,Clothing,4,2500,15,Delivered
+O10477,2026-03-11,C1155,Pune,Maharashtra,P007,T-Shirt,Clothing,2,1200,5,Delivered
+O10478,2026-09-09,C1121,Chennai,Tamil Nadu,P009,Backpack,Accessories,1,1800,0,Delivered
+O10479,2026-07-01,C1093,Bengaluru,Karnataka,P008,Jeans,Clothing,4,2500,5,Delivered
+O10480,2026-06-16,C1195,Delhi,Delhi,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10481,2026-04-01,C1108,Kolkata,West Bengal,P010,Watch,Accessories,3,4500,10,Delivered
+O10482,2026-07-21,C1141,Delhi,Delhi,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10483,2026-01-19,C1173,Bengaluru,Karnataka,P006,Running Shoes,Footwear,4,3500,10,Cancelled
+O10484,2026-02-08,C1010,Kolkata,West Bengal,P002,Smartphone,Electronics,3,25000,0,Delivered
+O10485,2026-05-06,C1009,Pune,Maharashtra,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10486,2026-06-22,C1182,Ahmedabad,Gujarat,P003,Headphones,Electronics,3,2500,5,Delivered
+O10487,2026-05-21,C1155,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,10,Delivered
+O10488,2026-08-30,C1034,Bengaluru,Karnataka,P002,Smartphone,Electronics,1,25000,10,Returned
+O10489,2026-08-08,C1129,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,2,2500,5,Delivered
+O10490,2026-05-06,C1160,Bengaluru,Karnataka,P006,Running Shoes,Footwear,2,3500,0,Delivered
+O10491,2026-02-27,C1089,Bengaluru,Karnataka,P001,Laptop,Electronics,2,55000,0,Delivered
+O10492,2026-05-28,C1093,Kolkata,West Bengal,P001,Laptop,Electronics,4,55000,15,Delivered
+O10493,2026-01-01,C1071,Mumbai,Maharashtra,P007,T-Shirt,Clothing,3,1200,15,Delivered
+O10494,2026-07-09,C1067,Chennai,Tamil Nadu,P008,Jeans,Clothing,1,2500,10,Delivered
+O10495,2026-07-10,C1148,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10496,2026-04-27,C1117,Pune,Maharashtra,P005,Desk Lamp,Furniture,1,1800,10,Returned
+O10497,2026-05-14,C1094,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10498,2026-02-27,C1163,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,2,3500,15,Delivered
+O10499,2026-02-13,C1099,Hyderabad,Telangana,P006,Running Shoes,Footwear,4,3500,0,Delivered
+O10500,2026-06-22,C1113,Pune,Maharashtra,P003,Headphones,Electronics,3,2500,0,Delivered
+O10501,2026-06-09,C1103,Hyderabad,Telangana,P009,Backpack,Accessories,4,1800,10,Returned
+O10502,2026-06-22,C1091,Hyderabad,Telangana,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10503,2026-05-29,C1090,Ahmedabad,Gujarat,P001,Laptop,Electronics,3,55000,5,Delivered
+O10504,2026-03-21,C1017,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,0,Delivered
+O10505,2026-08-01,C1018,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10506,2026-07-22,C1173,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,3,1800,15,Delivered
+O10507,2026-09-09,C1116,Jaipur,Rajasthan,P002,Smartphone,Electronics,4,25000,20,Delivered
+O10508,2026-08-17,C1093,Hyderabad,Telangana,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10509,2026-06-13,C1181,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10510,2026-08-15,C1091,Pune,Maharashtra,P010,Watch,Accessories,3,4500,0,Delivered
+O10511,2026-05-27,C1082,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10512,2026-01-20,C1068,Hyderabad,Telangana,P005,Desk Lamp,Furniture,3,1800,5,Delivered
+O10513,2026-02-16,C1193,Delhi,Delhi,P009,Backpack,Accessories,3,1800,10,Delivered
+O10514,2026-08-21,C1114,Delhi,Delhi,P003,Headphones,Electronics,3,2500,5,Cancelled
+O10515,2026-01-14,C1001,Hyderabad,Telangana,P001,Laptop,Electronics,3,55000,5,Delivered
+O10516,2026-05-23,C1058,Kolkata,West Bengal,P004,Office Chair,Furniture,4,9000,0,Delivered
+O10517,2026-01-01,C1154,Chennai,Tamil Nadu,P009,Backpack,Accessories,1,1800,5,Delivered
+O10518,2026-02-23,C1109,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,1,9000,0,Delivered
+O10519,2026-09-16,C1148,Bengaluru,Karnataka,P002,Smartphone,Electronics,1,25000,5,Delivered
+O10520,2026-05-24,C1116,Bengaluru,Karnataka,P010,Watch,Accessories,3,4500,20,Delivered
+O10521,2026-01-12,C1087,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10522,2026-08-12,C1010,Kolkata,West Bengal,P003,Headphones,Electronics,3,2500,10,Delivered
+O10523,2026-09-29,C1059,Bengaluru,Karnataka,P009,Backpack,Accessories,3,1800,15,Delivered
+O10524,2026-06-05,C1041,Delhi,Delhi,P004,Office Chair,Furniture,1,9000,20,Delivered
+O10525,2026-01-08,C1105,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,3,3500,10,Returned
+O10526,2026-05-02,C1133,Pune,Maharashtra,P002,Smartphone,Electronics,2,25000,15,Delivered
+O10527,2026-06-13,C1122,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10528,2026-03-31,C1193,Bengaluru,Karnataka,P003,Headphones,Electronics,2,2500,5,Returned
+O10529,2026-05-16,C1145,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,3,1800,10,Delivered
+O10530,2026-07-05,C1022,Ahmedabad,Gujarat,P002,Smartphone,Electronics,4,25000,10,Delivered
+O10531,2026-06-27,C1098,Hyderabad,Telangana,P009,Backpack,Accessories,4,1800,10,Delivered
+O10532,2026-01-28,C1169,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,1,1800,5,Returned
+O10533,2026-08-08,C1068,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,3,2500,0,Delivered
+O10534,2026-02-10,C1197,Delhi,Delhi,P002,Smartphone,Electronics,2,25000,10,Returned
+O10535,2026-08-16,C1139,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,2,3500,0,Delivered
+O10536,2026-07-11,C1056,Pune,Maharashtra,P003,Headphones,Electronics,3,2500,10,Delivered
+O10537,2026-05-25,C1179,Pune,Maharashtra,P010,Watch,Accessories,2,4500,10,Returned
+O10538,2026-07-20,C1149,Kolkata,West Bengal,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10539,2026-07-31,C1099,Jaipur,Rajasthan,P008,Jeans,Clothing,2,2500,15,Delivered
+O10540,2026-08-08,C1076,Kolkata,West Bengal,P010,Watch,Accessories,1,4500,15,Delivered
+O10541,2026-08-28,C1026,Ahmedabad,Gujarat,P001,Laptop,Electronics,4,55000,10,Delivered
+O10542,2026-02-15,C1115,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,4,1800,10,Returned
+O10543,2026-02-04,C1147,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,10,Delivered
+O10544,2026-09-10,C1109,Hyderabad,Telangana,P004,Office Chair,Furniture,3,9000,5,Delivered
+O10545,2026-03-23,C1188,Delhi,Delhi,P002,Smartphone,Electronics,3,25000,0,Delivered
+O10546,2026-09-13,C1199,Chennai,Tamil Nadu,P009,Backpack,Accessories,4,1800,5,Delivered
+O10547,2026-07-16,C1047,Kolkata,West Bengal,P003,Headphones,Electronics,3,2500,10,Delivered
+O10548,2026-01-10,C1071,Mumbai,Maharashtra,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10549,2026-08-30,C1154,Jaipur,Rajasthan,P010,Watch,Accessories,3,4500,15,Delivered
+O10550,2026-09-08,C1040,Jaipur,Rajasthan,P009,Backpack,Accessories,3,1800,5,Cancelled
+O10551,2026-01-05,C1133,Delhi,Delhi,P007,T-Shirt,Clothing,4,1200,0,Delivered
+O10552,2026-04-29,C1149,Bengaluru,Karnataka,P006,Running Shoes,Footwear,1,3500,20,Delivered
+O10553,2026-03-06,C1132,Pune,Maharashtra,P001,Laptop,Electronics,1,55000,0,Cancelled
+O10554,2026-05-26,C1023,Pune,Maharashtra,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10555,2026-08-12,C1106,Mumbai,Maharashtra,P003,Headphones,Electronics,2,2500,10,Delivered
+O10556,2026-08-27,C1084,Ahmedabad,Gujarat,P001,Laptop,Electronics,3,55000,10,Delivered
+O10557,2026-06-26,C1143,Ahmedabad,Gujarat,P004,Office Chair,Furniture,1,9000,0,Delivered
+O10558,2026-09-24,C1116,Hyderabad,Telangana,P002,Smartphone,Electronics,4,25000,0,Delivered
+O10559,2026-03-04,C1109,Chennai,Tamil Nadu,P002,Smartphone,Electronics,1,25000,0,Returned
+O10560,2026-08-05,C1136,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,1,2500,10,Delivered
+O10561,2026-06-26,C1041,Bengaluru,Karnataka,P008,Jeans,Clothing,3,2500,10,Delivered
+O10562,2026-04-08,C1112,Kolkata,West Bengal,P008,Jeans,Clothing,3,2500,5,Delivered
+O10563,2026-04-15,C1147,Lucknow,Uttar Pradesh,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10564,2026-04-09,C1112,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,2,3500,15,Delivered
+O10565,2026-01-06,C1103,Jaipur,Rajasthan,P009,Backpack,Accessories,2,1800,0,Delivered
+O10566,2026-07-16,C1046,Mumbai,Maharashtra,P004,Office Chair,Furniture,1,9000,10,Delivered
+O10567,2026-05-13,C1156,Pune,Maharashtra,P001,Laptop,Electronics,3,55000,10,Delivered
+O10568,2026-09-16,C1068,Hyderabad,Telangana,P008,Jeans,Clothing,1,2500,5,Delivered
+O10569,2026-01-23,C1122,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10570,2026-02-22,C1015,Mumbai,Maharashtra,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10571,2026-06-14,C1165,Jaipur,Rajasthan,P003,Headphones,Electronics,3,2500,15,Delivered
+O10572,2026-07-21,C1129,Kolkata,West Bengal,P004,Office Chair,Furniture,3,9000,15,Delivered
+O10573,2026-03-24,C1195,Hyderabad,Telangana,P010,Watch,Accessories,4,4500,10,Delivered
+O10574,2026-05-25,C1111,Jaipur,Rajasthan,P009,Backpack,Accessories,3,1800,10,Delivered
+O10575,2026-03-26,C1024,Pune,Maharashtra,P006,Running Shoes,Footwear,2,3500,5,Delivered
+O10576,2026-03-19,C1027,Pune,Maharashtra,P005,Desk Lamp,Furniture,2,1800,10,Returned
+O10577,2026-01-01,C1040,Pune,Maharashtra,P003,Headphones,Electronics,3,2500,10,Delivered
+O10578,2026-02-20,C1191,Mumbai,Maharashtra,P009,Backpack,Accessories,4,1800,5,Delivered
+O10579,2026-06-22,C1189,Mumbai,Maharashtra,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10580,2026-07-24,C1164,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10581,2026-09-17,C1024,Ahmedabad,Gujarat,P004,Office Chair,Furniture,3,9000,5,Delivered
+O10582,2026-02-03,C1024,Kolkata,West Bengal,P004,Office Chair,Furniture,1,9000,15,Delivered
+O10583,2026-04-05,C1004,Hyderabad,Telangana,P001,Laptop,Electronics,3,55000,0,Delivered
+O10584,2026-03-13,C1067,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,5,Delivered
+O10585,2026-02-08,C1034,Delhi,Delhi,P009,Backpack,Accessories,4,1800,0,Delivered
+O10586,2026-06-03,C1185,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,15,Delivered
+O10587,2026-09-07,C1177,Pune,Maharashtra,P002,Smartphone,Electronics,4,25000,10,Delivered
+O10588,2026-06-11,C1181,Hyderabad,Telangana,P003,Headphones,Electronics,2,2500,5,Delivered
+O10589,2026-04-28,C1116,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,1,55000,10,Cancelled
+O10590,2026-09-16,C1023,Mumbai,Maharashtra,P006,Running Shoes,Footwear,2,3500,5,Delivered
+O10591,2026-09-25,C1109,Chennai,Tamil Nadu,P007,T-Shirt,Clothing,4,1200,15,Delivered
+O10592,2026-02-23,C1069,Bengaluru,Karnataka,P002,Smartphone,Electronics,2,25000,10,Returned
+O10593,2026-08-24,C1095,Kolkata,West Bengal,P008,Jeans,Clothing,1,2500,10,Delivered
+O10594,2026-08-10,C1181,Pune,Maharashtra,P006,Running Shoes,Footwear,2,3500,15,Delivered
+O10595,2026-09-08,C1062,Pune,Maharashtra,P004,Office Chair,Furniture,3,9000,5,Delivered
+O10596,2026-04-22,C1169,Pune,Maharashtra,P005,Desk Lamp,Furniture,4,1800,0,Delivered
+O10597,2026-09-12,C1057,Mumbai,Maharashtra,P008,Jeans,Clothing,3,2500,10,Delivered
+O10598,2026-07-26,C1188,Mumbai,Maharashtra,P003,Headphones,Electronics,1,2500,20,Delivered
+O10599,2026-08-17,C1054,Bengaluru,Karnataka,P003,Headphones,Electronics,2,2500,5,Delivered
+O10600,2026-03-07,C1070,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,3,9000,0,Cancelled
+O10601,2026-03-16,C1101,Hyderabad,Telangana,P001,Laptop,Electronics,3,55000,5,Delivered
+O10602,2026-04-13,C1057,Pune,Maharashtra,P009,Backpack,Accessories,2,1800,10,Delivered
+O10603,2026-07-11,C1138,Delhi,Delhi,P008,Jeans,Clothing,2,2500,5,Delivered
+O10604,2026-09-09,C1168,Ahmedabad,Gujarat,P008,Jeans,Clothing,4,2500,10,Delivered
+O10605,2026-08-14,C1135,Delhi,Delhi,P010,Watch,Accessories,3,4500,20,Delivered
+O10606,2026-04-08,C1103,Jaipur,Rajasthan,P006,Running Shoes,Footwear,3,3500,10,Delivered
+O10607,2026-09-06,C1166,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,5,Delivered
+O10608,2026-06-15,C1085,Jaipur,Rajasthan,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10609,2026-01-30,C1061,Chennai,Tamil Nadu,P009,Backpack,Accessories,1,1800,0,Delivered
+O10610,2026-09-04,C1003,Ahmedabad,Gujarat,P003,Headphones,Electronics,3,2500,15,Delivered
+O10611,2026-04-16,C1128,Delhi,Delhi,P003,Headphones,Electronics,1,2500,10,Delivered
+O10612,2026-02-20,C1179,Chennai,Tamil Nadu,P003,Headphones,Electronics,3,2500,5,Delivered
+O10613,2026-03-22,C1086,Kolkata,West Bengal,P010,Watch,Accessories,3,4500,10,Cancelled
+O10614,2026-05-13,C1047,Hyderabad,Telangana,P003,Headphones,Electronics,1,2500,10,Delivered
+O10615,2026-05-18,C1196,Chennai,Tamil Nadu,P009,Backpack,Accessories,1,1800,10,Delivered
+O10616,2026-07-03,C1076,Hyderabad,Telangana,P004,Office Chair,Furniture,2,9000,0,Delivered
+O10617,2026-09-30,C1038,Delhi,Delhi,P007,T-Shirt,Clothing,2,1200,15,Delivered
+O10618,2026-03-10,C1164,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,2,1800,15,Delivered
+O10619,2026-02-03,C1169,Chennai,Tamil Nadu,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10620,2026-09-19,C1197,Ahmedabad,Gujarat,P009,Backpack,Accessories,1,1800,20,Delivered
+O10621,2026-02-22,C1141,Delhi,Delhi,P003,Headphones,Electronics,4,2500,5,Delivered
+O10622,2026-07-24,C1087,Pune,Maharashtra,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10623,2026-05-06,C1058,Mumbai,Maharashtra,P008,Jeans,Clothing,4,2500,10,Delivered
+O10624,2026-08-23,C1050,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10625,2026-02-12,C1030,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10626,2026-08-28,C1190,Kolkata,West Bengal,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10627,2026-04-21,C1101,Pune,Maharashtra,P008,Jeans,Clothing,4,2500,0,Returned
+O10628,2026-09-06,C1025,Kolkata,West Bengal,P001,Laptop,Electronics,2,55000,5,Delivered
+O10629,2026-05-31,C1112,Delhi,Delhi,P009,Backpack,Accessories,2,1800,5,Cancelled
+O10630,2026-07-02,C1155,Mumbai,Maharashtra,P001,Laptop,Electronics,2,55000,10,Delivered
+O10631,2026-04-05,C1179,Chennai,Tamil Nadu,P008,Jeans,Clothing,3,2500,5,Delivered
+O10632,2026-01-08,C1185,Chennai,Tamil Nadu,P004,Office Chair,Furniture,1,9000,0,Returned
+O10633,2026-07-03,C1126,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,1,1800,10,Delivered
+O10634,2026-07-14,C1123,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10635,2026-07-14,C1047,Delhi,Delhi,P003,Headphones,Electronics,2,2500,15,Cancelled
+O10636,2026-06-04,C1118,Delhi,Delhi,P009,Backpack,Accessories,2,1800,10,Delivered
+O10637,2026-04-03,C1039,Mumbai,Maharashtra,P009,Backpack,Accessories,4,1800,5,Delivered
+O10638,2026-06-09,C1016,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,2,9000,15,Delivered
+O10639,2026-03-02,C1022,Ahmedabad,Gujarat,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10640,2026-05-02,C1054,Ahmedabad,Gujarat,P008,Jeans,Clothing,1,2500,0,Delivered
+O10641,2026-02-20,C1149,Mumbai,Maharashtra,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10642,2026-01-05,C1200,Ahmedabad,Gujarat,P009,Backpack,Accessories,3,1800,15,Delivered
+O10643,2026-04-02,C1016,Jaipur,Rajasthan,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10644,2026-06-19,C1059,Hyderabad,Telangana,P009,Backpack,Accessories,3,1800,5,Delivered
+O10645,2026-01-22,C1031,Mumbai,Maharashtra,P008,Jeans,Clothing,4,2500,0,Delivered
+O10646,2026-01-01,C1170,Mumbai,Maharashtra,P007,T-Shirt,Clothing,4,1200,5,Delivered
+O10647,2026-05-13,C1032,Bengaluru,Karnataka,P001,Laptop,Electronics,2,55000,10,Delivered
+O10648,2026-08-21,C1187,Pune,Maharashtra,P003,Headphones,Electronics,4,2500,10,Delivered
+O10649,2026-01-12,C1162,Pune,Maharashtra,P002,Smartphone,Electronics,2,25000,0,Delivered
+O10650,2026-02-15,C1009,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10651,2026-02-03,C1139,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,3,1800,15,Delivered
+O10652,2026-03-19,C1010,Delhi,Delhi,P005,Desk Lamp,Furniture,4,1800,10,Returned
+O10653,2026-08-06,C1017,Delhi,Delhi,P004,Office Chair,Furniture,4,9000,15,Delivered
+O10654,2026-03-14,C1068,Kolkata,West Bengal,P005,Desk Lamp,Furniture,2,1800,0,Delivered
+O10655,2026-09-06,C1048,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,10,Delivered
+O10656,2026-02-16,C1180,Mumbai,Maharashtra,P001,Laptop,Electronics,1,55000,10,Delivered
+O10657,2026-05-01,C1111,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,1,1800,15,Returned
+O10658,2026-08-02,C1153,Jaipur,Rajasthan,P009,Backpack,Accessories,2,1800,15,Returned
+O10659,2026-08-27,C1123,Jaipur,Rajasthan,P009,Backpack,Accessories,1,1800,5,Delivered
+O10660,2026-02-25,C1149,Pune,Maharashtra,P004,Office Chair,Furniture,1,9000,15,Delivered
+O10661,2026-04-17,C1101,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,0,Returned
+O10662,2026-02-17,C1102,Hyderabad,Telangana,P001,Laptop,Electronics,2,55000,15,Cancelled
+O10663,2026-03-02,C1065,Delhi,Delhi,P002,Smartphone,Electronics,4,25000,20,Delivered
+O10664,2026-01-26,C1191,Kolkata,West Bengal,P008,Jeans,Clothing,2,2500,5,Delivered
+O10665,2026-09-14,C1051,Hyderabad,Telangana,P001,Laptop,Electronics,2,55000,10,Delivered
+O10666,2026-01-08,C1036,Kolkata,West Bengal,P008,Jeans,Clothing,3,2500,0,Returned
+O10667,2026-04-23,C1081,Bengaluru,Karnataka,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10668,2026-09-10,C1127,Kolkata,West Bengal,P008,Jeans,Clothing,4,2500,10,Delivered
+O10669,2026-06-29,C1088,Delhi,Delhi,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10670,2026-07-26,C1194,Delhi,Delhi,P009,Backpack,Accessories,3,1800,15,Delivered
+O10671,2026-05-07,C1104,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,10,Delivered
+O10672,2026-02-25,C1015,Chennai,Tamil Nadu,P010,Watch,Accessories,4,4500,10,Cancelled
+O10673,2026-08-02,C1096,Bengaluru,Karnataka,P004,Office Chair,Furniture,4,9000,15,Delivered
+O10674,2026-01-14,C1167,Mumbai,Maharashtra,P006,Running Shoes,Footwear,1,3500,20,Delivered
+O10675,2026-01-28,C1123,Ahmedabad,Gujarat,P008,Jeans,Clothing,4,2500,0,Delivered
+O10676,2026-03-19,C1198,Kolkata,West Bengal,P005,Desk Lamp,Furniture,2,1800,20,Delivered
+O10677,2026-08-04,C1001,Chennai,Tamil Nadu,P003,Headphones,Electronics,2,2500,0,Delivered
+O10678,2026-06-03,C1151,Jaipur,Rajasthan,P006,Running Shoes,Footwear,1,3500,15,Delivered
+O10679,2026-01-14,C1122,Pune,Maharashtra,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10680,2026-07-06,C1167,Mumbai,Maharashtra,P009,Backpack,Accessories,4,1800,0,Delivered
+O10681,2026-01-07,C1126,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,4,2500,10,Delivered
+O10682,2026-01-03,C1057,Chennai,Tamil Nadu,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10683,2026-04-21,C1081,Pune,Maharashtra,P007,T-Shirt,Clothing,4,1200,5,Cancelled
+O10684,2026-08-26,C1162,Bengaluru,Karnataka,P007,T-Shirt,Clothing,2,1200,0,Returned
+O10685,2026-08-27,C1169,Jaipur,Rajasthan,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10686,2026-08-15,C1073,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10687,2026-01-15,C1141,Mumbai,Maharashtra,P003,Headphones,Electronics,3,2500,5,Returned
+O10688,2026-07-11,C1070,Mumbai,Maharashtra,P006,Running Shoes,Footwear,4,3500,5,Delivered
+O10689,2026-04-29,C1006,Bengaluru,Karnataka,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10690,2026-01-28,C1084,Kolkata,West Bengal,P008,Jeans,Clothing,3,2500,0,Returned
+O10691,2026-07-21,C1052,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,3,25000,15,Delivered
+O10692,2026-02-08,C1003,Bengaluru,Karnataka,P007,T-Shirt,Clothing,4,1200,15,Delivered
+O10693,2026-09-30,C1081,Ahmedabad,Gujarat,P009,Backpack,Accessories,4,1800,10,Cancelled
+O10694,2026-08-19,C1063,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,3,55000,5,Delivered
+O10695,2026-03-27,C1049,Delhi,Delhi,P008,Jeans,Clothing,1,2500,15,Delivered
+O10696,2026-05-06,C1076,Jaipur,Rajasthan,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10697,2026-01-25,C1112,Bengaluru,Karnataka,P006,Running Shoes,Footwear,4,3500,15,Delivered
+O10698,2026-05-25,C1175,Pune,Maharashtra,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10699,2026-01-13,C1109,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10700,2026-07-31,C1183,Ahmedabad,Gujarat,P009,Backpack,Accessories,1,1800,10,Cancelled
+O10701,2026-01-25,C1192,Delhi,Delhi,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10702,2026-03-09,C1065,Kolkata,West Bengal,P001,Laptop,Electronics,3,55000,20,Delivered
+O10703,2026-03-08,C1081,Pune,Maharashtra,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10704,2026-08-21,C1195,Lucknow,Uttar Pradesh,P010,Watch,Accessories,1,4500,10,Delivered
+O10705,2026-04-19,C1015,Jaipur,Rajasthan,P008,Jeans,Clothing,2,2500,5,Delivered
+O10706,2026-05-26,C1100,Pune,Maharashtra,P003,Headphones,Electronics,1,2500,10,Cancelled
+O10707,2026-04-21,C1032,Delhi,Delhi,P010,Watch,Accessories,3,4500,10,Delivered
+O10708,2026-08-16,C1096,Pune,Maharashtra,P001,Laptop,Electronics,3,55000,5,Delivered
+O10709,2026-04-21,C1128,Hyderabad,Telangana,P009,Backpack,Accessories,3,1800,0,Delivered
+O10710,2026-02-03,C1196,Chennai,Tamil Nadu,P001,Laptop,Electronics,1,55000,10,Delivered
+O10711,2026-04-21,C1146,Kolkata,West Bengal,P003,Headphones,Electronics,4,2500,15,Delivered
+O10712,2026-09-21,C1113,Delhi,Delhi,P008,Jeans,Clothing,3,2500,10,Delivered
+O10713,2026-08-24,C1083,Pune,Maharashtra,P003,Headphones,Electronics,3,2500,5,Delivered
+O10714,2026-03-24,C1043,Chennai,Tamil Nadu,P004,Office Chair,Furniture,1,9000,10,Cancelled
+O10715,2026-02-11,C1116,Chennai,Tamil Nadu,P008,Jeans,Clothing,2,2500,0,Delivered
+O10716,2026-04-11,C1163,Pune,Maharashtra,P001,Laptop,Electronics,2,55000,10,Delivered
+O10717,2026-01-06,C1078,Jaipur,Rajasthan,P006,Running Shoes,Footwear,4,3500,5,Delivered
+O10718,2026-06-29,C1058,Hyderabad,Telangana,P001,Laptop,Electronics,4,55000,5,Delivered
+O10719,2026-08-14,C1033,Bengaluru,Karnataka,P001,Laptop,Electronics,3,55000,5,Delivered
+O10720,2026-08-17,C1014,Hyderabad,Telangana,P008,Jeans,Clothing,1,2500,5,Delivered
+O10721,2026-05-30,C1162,Pune,Maharashtra,P004,Office Chair,Furniture,3,9000,0,Delivered
+O10722,2026-07-17,C1189,Kolkata,West Bengal,P001,Laptop,Electronics,4,55000,5,Delivered
+O10723,2026-03-11,C1132,Bengaluru,Karnataka,P010,Watch,Accessories,1,4500,10,Delivered
+O10724,2026-04-22,C1059,Delhi,Delhi,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10725,2026-01-04,C1157,Hyderabad,Telangana,P005,Desk Lamp,Furniture,4,1800,5,Delivered
+O10726,2026-04-05,C1083,Pune,Maharashtra,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10727,2026-06-01,C1134,Hyderabad,Telangana,P001,Laptop,Electronics,2,55000,0,Delivered
+O10728,2026-05-17,C1121,Bengaluru,Karnataka,P010,Watch,Accessories,1,4500,10,Delivered
+O10729,2026-09-04,C1177,Ahmedabad,Gujarat,P006,Running Shoes,Footwear,3,3500,0,Delivered
+O10730,2026-08-31,C1168,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,2,1800,0,Delivered
+O10731,2026-01-31,C1083,Hyderabad,Telangana,P009,Backpack,Accessories,3,1800,10,Delivered
+O10732,2026-02-09,C1193,Delhi,Delhi,P008,Jeans,Clothing,2,2500,10,Delivered
+O10733,2026-08-17,C1197,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10734,2026-02-05,C1027,Mumbai,Maharashtra,P001,Laptop,Electronics,3,55000,10,Delivered
+O10735,2026-08-11,C1080,Hyderabad,Telangana,P009,Backpack,Accessories,4,1800,20,Delivered
+O10736,2026-01-06,C1134,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,2,55000,0,Cancelled
+O10737,2026-08-08,C1013,Jaipur,Rajasthan,P008,Jeans,Clothing,2,2500,0,Delivered
+O10738,2026-03-16,C1064,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,3,1800,0,Delivered
+O10739,2026-01-04,C1190,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,4,2500,5,Delivered
+O10740,2026-05-14,C1147,Chennai,Tamil Nadu,P007,T-Shirt,Clothing,2,1200,10,Delivered
+O10741,2026-04-28,C1080,Chennai,Tamil Nadu,P007,T-Shirt,Clothing,2,1200,10,Delivered
+O10742,2026-04-04,C1123,Ahmedabad,Gujarat,P009,Backpack,Accessories,4,1800,0,Delivered
+O10743,2026-03-03,C1043,Mumbai,Maharashtra,P007,T-Shirt,Clothing,2,1200,15,Delivered
+O10744,2026-07-13,C1089,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,4,2500,15,Delivered
+O10745,2026-07-22,C1148,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,4,55000,5,Delivered
+O10746,2026-01-26,C1095,Ahmedabad,Gujarat,P008,Jeans,Clothing,3,2500,0,Delivered
+O10747,2026-06-22,C1196,Hyderabad,Telangana,P003,Headphones,Electronics,1,2500,5,Delivered
+O10748,2026-05-13,C1172,Hyderabad,Telangana,P008,Jeans,Clothing,4,2500,0,Delivered
+O10749,2026-04-28,C1151,Hyderabad,Telangana,P008,Jeans,Clothing,3,2500,0,Delivered
+O10750,2026-07-31,C1002,Kolkata,West Bengal,P005,Desk Lamp,Furniture,1,1800,10,Cancelled
+O10751,2026-08-13,C1120,Chennai,Tamil Nadu,P001,Laptop,Electronics,2,55000,5,Returned
+O10752,2026-01-20,C1022,Kolkata,West Bengal,P010,Watch,Accessories,1,4500,5,Delivered
+O10753,2026-04-23,C1115,Mumbai,Maharashtra,P007,T-Shirt,Clothing,4,1200,20,Delivered
+O10754,2026-05-20,C1057,Ahmedabad,Gujarat,P010,Watch,Accessories,4,4500,10,Returned
+O10755,2026-02-16,C1072,Lucknow,Uttar Pradesh,P005,Desk Lamp,Furniture,4,1800,15,Cancelled
+O10756,2026-01-01,C1007,Chennai,Tamil Nadu,P008,Jeans,Clothing,4,2500,0,Delivered
+O10757,2026-03-31,C1184,Kolkata,West Bengal,P009,Backpack,Accessories,4,1800,5,Delivered
+O10758,2026-05-22,C1119,Kolkata,West Bengal,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10759,2026-02-07,C1195,Pune,Maharashtra,P007,T-Shirt,Clothing,4,1200,0,Delivered
+O10760,2026-05-19,C1114,Kolkata,West Bengal,P001,Laptop,Electronics,3,55000,0,Delivered
+O10761,2026-09-16,C1016,Jaipur,Rajasthan,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10762,2026-06-10,C1083,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,4,25000,10,Delivered
+O10763,2026-06-27,C1179,Jaipur,Rajasthan,P002,Smartphone,Electronics,4,25000,10,Delivered
+O10764,2026-01-10,C1072,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10765,2026-09-18,C1124,Ahmedabad,Gujarat,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10766,2026-05-18,C1113,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,4,55000,0,Delivered
+O10767,2026-06-21,C1012,Jaipur,Rajasthan,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10768,2026-01-13,C1126,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10769,2026-06-17,C1053,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,3,1800,0,Delivered
+O10770,2026-05-10,C1075,Ahmedabad,Gujarat,P003,Headphones,Electronics,4,2500,20,Delivered
+O10771,2026-03-25,C1133,Mumbai,Maharashtra,P008,Jeans,Clothing,1,2500,10,Cancelled
+O10772,2026-04-11,C1027,Lucknow,Uttar Pradesh,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10773,2026-09-30,C1140,Pune,Maharashtra,P001,Laptop,Electronics,1,55000,5,Delivered
+O10774,2026-09-22,C1145,Hyderabad,Telangana,P001,Laptop,Electronics,1,55000,5,Delivered
+O10775,2026-02-07,C1134,Delhi,Delhi,P010,Watch,Accessories,4,4500,5,Cancelled
+O10776,2026-04-04,C1097,Ahmedabad,Gujarat,P003,Headphones,Electronics,4,2500,0,Delivered
+O10777,2026-04-05,C1005,Bengaluru,Karnataka,P009,Backpack,Accessories,1,1800,5,Delivered
+O10778,2026-03-10,C1057,Hyderabad,Telangana,P007,T-Shirt,Clothing,2,1200,15,Delivered
+O10779,2026-08-24,C1156,Chennai,Tamil Nadu,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10780,2026-05-17,C1078,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,4,1800,10,Delivered
+O10781,2026-03-17,C1069,Jaipur,Rajasthan,P010,Watch,Accessories,3,4500,10,Delivered
+O10782,2026-02-04,C1118,Delhi,Delhi,P002,Smartphone,Electronics,2,25000,15,Delivered
+O10783,2026-01-01,C1120,Bengaluru,Karnataka,P003,Headphones,Electronics,4,2500,0,Delivered
+O10784,2026-03-01,C1059,Hyderabad,Telangana,P010,Watch,Accessories,2,4500,5,Delivered
+O10785,2026-09-24,C1033,Lucknow,Uttar Pradesh,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10786,2026-08-17,C1062,Mumbai,Maharashtra,P003,Headphones,Electronics,4,2500,15,Delivered
+O10787,2026-09-27,C1050,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,3,3500,20,Delivered
+O10788,2026-08-01,C1112,Delhi,Delhi,P009,Backpack,Accessories,4,1800,5,Delivered
+O10789,2026-06-14,C1019,Pune,Maharashtra,P009,Backpack,Accessories,3,1800,15,Delivered
+O10790,2026-01-05,C1197,Mumbai,Maharashtra,P007,T-Shirt,Clothing,2,1200,15,Delivered
+O10791,2026-03-19,C1123,Bengaluru,Karnataka,P003,Headphones,Electronics,2,2500,5,Delivered
+O10792,2026-03-03,C1194,Delhi,Delhi,P004,Office Chair,Furniture,3,9000,5,Returned
+O10793,2026-05-12,C1047,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,10,Delivered
+O10794,2026-03-30,C1167,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,3,1800,20,Delivered
+O10795,2026-08-25,C1196,Pune,Maharashtra,P002,Smartphone,Electronics,4,25000,5,Delivered
+O10796,2026-02-11,C1033,Mumbai,Maharashtra,P006,Running Shoes,Footwear,2,3500,15,Delivered
+O10797,2026-03-30,C1141,Kolkata,West Bengal,P003,Headphones,Electronics,4,2500,5,Delivered
+O10798,2026-04-14,C1084,Pune,Maharashtra,P008,Jeans,Clothing,2,2500,10,Delivered
+O10799,2026-01-14,C1182,Bengaluru,Karnataka,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10800,2026-06-28,C1135,Chennai,Tamil Nadu,P001,Laptop,Electronics,4,55000,10,Delivered
+O10801,2026-05-05,C1079,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,2,1800,15,Delivered
+O10802,2026-01-23,C1014,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,15,Delivered
+O10803,2026-03-04,C1147,Jaipur,Rajasthan,P001,Laptop,Electronics,4,55000,15,Delivered
+O10804,2026-05-23,C1128,Jaipur,Rajasthan,P007,T-Shirt,Clothing,4,1200,0,Delivered
+O10805,2026-06-02,C1054,Delhi,Delhi,P010,Watch,Accessories,2,4500,10,Delivered
+O10806,2026-05-25,C1148,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,4,1800,0,Delivered
+O10807,2026-08-13,C1029,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,3,1800,10,Cancelled
+O10808,2026-04-14,C1024,Pune,Maharashtra,P001,Laptop,Electronics,4,55000,10,Returned
+O10809,2026-04-14,C1082,Delhi,Delhi,P009,Backpack,Accessories,4,1800,10,Delivered
+O10810,2026-02-08,C1063,Bengaluru,Karnataka,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10811,2026-07-17,C1105,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,2,2500,20,Delivered
+O10812,2026-05-14,C1057,Kolkata,West Bengal,P009,Backpack,Accessories,3,1800,0,Delivered
+O10813,2026-03-08,C1136,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10814,2026-06-28,C1062,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,1,1800,5,Delivered
+O10815,2026-02-11,C1157,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,0,Delivered
+O10816,2026-01-15,C1017,Chennai,Tamil Nadu,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10817,2026-04-21,C1066,Ahmedabad,Gujarat,P004,Office Chair,Furniture,3,9000,15,Delivered
+O10818,2026-06-06,C1006,Bengaluru,Karnataka,P003,Headphones,Electronics,2,2500,15,Delivered
+O10819,2026-08-19,C1058,Hyderabad,Telangana,P007,T-Shirt,Clothing,1,1200,15,Delivered
+O10820,2026-06-06,C1069,Lucknow,Uttar Pradesh,P009,Backpack,Accessories,3,1800,20,Delivered
+O10821,2026-02-07,C1156,Kolkata,West Bengal,P005,Desk Lamp,Furniture,2,1800,5,Delivered
+O10822,2026-04-07,C1062,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,1,3500,5,Delivered
+O10823,2026-09-11,C1169,Chennai,Tamil Nadu,P010,Watch,Accessories,4,4500,10,Delivered
+O10824,2026-07-15,C1197,Hyderabad,Telangana,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10825,2026-03-27,C1082,Ahmedabad,Gujarat,P003,Headphones,Electronics,1,2500,10,Delivered
+O10826,2026-01-10,C1169,Pune,Maharashtra,P003,Headphones,Electronics,2,2500,5,Delivered
+O10827,2026-01-05,C1177,Mumbai,Maharashtra,P009,Backpack,Accessories,1,1800,10,Delivered
+O10828,2026-05-03,C1177,Hyderabad,Telangana,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10829,2026-04-28,C1071,Bengaluru,Karnataka,P008,Jeans,Clothing,4,2500,5,Delivered
+O10830,2026-06-08,C1131,Jaipur,Rajasthan,P010,Watch,Accessories,2,4500,10,Delivered
+O10831,2026-08-16,C1010,Ahmedabad,Gujarat,P009,Backpack,Accessories,3,1800,10,Delivered
+O10832,2026-08-04,C1098,Mumbai,Maharashtra,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10833,2026-07-03,C1089,Kolkata,West Bengal,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10834,2026-01-15,C1035,Jaipur,Rajasthan,P001,Laptop,Electronics,1,55000,10,Cancelled
+O10835,2026-06-06,C1002,Chennai,Tamil Nadu,P008,Jeans,Clothing,3,2500,0,Delivered
+O10836,2026-05-16,C1124,Hyderabad,Telangana,P007,T-Shirt,Clothing,2,1200,5,Delivered
+O10837,2026-09-18,C1024,Mumbai,Maharashtra,P002,Smartphone,Electronics,3,25000,15,Delivered
+O10838,2026-06-06,C1074,Delhi,Delhi,P008,Jeans,Clothing,3,2500,10,Returned
+O10839,2026-02-16,C1166,Pune,Maharashtra,P005,Desk Lamp,Furniture,3,1800,5,Delivered
+O10840,2026-06-22,C1022,Pune,Maharashtra,P007,T-Shirt,Clothing,3,1200,10,Delivered
+O10841,2026-05-10,C1154,Ahmedabad,Gujarat,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10842,2026-04-05,C1171,Kolkata,West Bengal,P005,Desk Lamp,Furniture,1,1800,15,Delivered
+O10843,2026-04-25,C1183,Ahmedabad,Gujarat,P008,Jeans,Clothing,1,2500,10,Delivered
+O10844,2026-08-31,C1039,Delhi,Delhi,P001,Laptop,Electronics,4,55000,10,Delivered
+O10845,2026-03-10,C1157,Bengaluru,Karnataka,P001,Laptop,Electronics,1,55000,10,Delivered
+O10846,2026-05-28,C1020,Kolkata,West Bengal,P004,Office Chair,Furniture,4,9000,0,Returned
+O10847,2026-01-11,C1041,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,4,2500,5,Delivered
+O10848,2026-09-11,C1182,Bengaluru,Karnataka,P010,Watch,Accessories,2,4500,10,Delivered
+O10849,2026-02-07,C1148,Kolkata,West Bengal,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10850,2026-05-14,C1108,Kolkata,West Bengal,P003,Headphones,Electronics,1,2500,10,Delivered
+O10851,2026-07-19,C1147,Delhi,Delhi,P001,Laptop,Electronics,2,55000,5,Delivered
+O10852,2026-01-23,C1084,Chennai,Tamil Nadu,P001,Laptop,Electronics,1,55000,0,Delivered
+O10853,2026-08-06,C1111,Delhi,Delhi,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10854,2026-05-21,C1066,Kolkata,West Bengal,P005,Desk Lamp,Furniture,1,1800,5,Delivered
+O10855,2026-04-14,C1158,Mumbai,Maharashtra,P008,Jeans,Clothing,3,2500,10,Delivered
+O10856,2026-07-29,C1053,Bengaluru,Karnataka,P002,Smartphone,Electronics,4,25000,0,Delivered
+O10857,2026-04-21,C1034,Delhi,Delhi,P004,Office Chair,Furniture,4,9000,10,Delivered
+O10858,2026-04-14,C1150,Chennai,Tamil Nadu,P008,Jeans,Clothing,2,2500,15,Delivered
+O10859,2026-06-20,C1067,Hyderabad,Telangana,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10860,2026-05-13,C1134,Ahmedabad,Gujarat,P001,Laptop,Electronics,4,55000,10,Returned
+O10861,2026-05-07,C1027,Kolkata,West Bengal,P004,Office Chair,Furniture,3,9000,0,Delivered
+O10862,2026-04-16,C1010,Lucknow,Uttar Pradesh,P001,Laptop,Electronics,1,55000,10,Delivered
+O10863,2026-04-02,C1073,Hyderabad,Telangana,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10864,2026-02-20,C1096,Pune,Maharashtra,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10865,2026-01-29,C1048,Jaipur,Rajasthan,P008,Jeans,Clothing,2,2500,10,Delivered
+O10866,2026-08-02,C1070,Chennai,Tamil Nadu,P008,Jeans,Clothing,4,2500,15,Delivered
+O10867,2026-09-24,C1187,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,3,2500,5,Delivered
+O10868,2026-09-14,C1100,Jaipur,Rajasthan,P004,Office Chair,Furniture,3,9000,0,Delivered
+O10869,2026-04-11,C1059,Chennai,Tamil Nadu,P010,Watch,Accessories,4,4500,15,Delivered
+O10870,2026-04-20,C1002,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,10,Delivered
+O10871,2026-07-01,C1157,Ahmedabad,Gujarat,P010,Watch,Accessories,1,4500,15,Delivered
+O10872,2026-01-01,C1196,Hyderabad,Telangana,P003,Headphones,Electronics,4,2500,10,Delivered
+O10873,2026-02-24,C1065,Bengaluru,Karnataka,P002,Smartphone,Electronics,2,25000,15,Delivered
+O10874,2026-05-29,C1083,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10875,2026-05-17,C1154,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10876,2026-07-21,C1010,Ahmedabad,Gujarat,P010,Watch,Accessories,1,4500,15,Delivered
+O10877,2026-04-27,C1053,Kolkata,West Bengal,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10878,2026-06-03,C1079,Pune,Maharashtra,P010,Watch,Accessories,1,4500,5,Delivered
+O10879,2026-03-04,C1059,Hyderabad,Telangana,P005,Desk Lamp,Furniture,1,1800,5,Delivered
+O10880,2026-09-01,C1150,Ahmedabad,Gujarat,P010,Watch,Accessories,2,4500,5,Delivered
+O10881,2026-01-25,C1179,Ahmedabad,Gujarat,P005,Desk Lamp,Furniture,3,1800,5,Delivered
+O10882,2026-03-31,C1048,Mumbai,Maharashtra,P003,Headphones,Electronics,1,2500,5,Delivered
+O10883,2026-03-16,C1149,Jaipur,Rajasthan,P007,T-Shirt,Clothing,1,1200,10,Delivered
+O10884,2026-07-29,C1123,Pune,Maharashtra,P006,Running Shoes,Footwear,4,3500,10,Delivered
+O10885,2026-01-17,C1022,Hyderabad,Telangana,P004,Office Chair,Furniture,2,9000,10,Delivered
+O10886,2026-05-08,C1100,Kolkata,West Bengal,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10887,2026-09-08,C1098,Kolkata,West Bengal,P009,Backpack,Accessories,3,1800,0,Delivered
+O10888,2026-06-28,C1158,Delhi,Delhi,P001,Laptop,Electronics,2,55000,0,Delivered
+O10889,2026-07-01,C1025,Ahmedabad,Gujarat,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10890,2026-06-01,C1028,Chennai,Tamil Nadu,P001,Laptop,Electronics,4,55000,10,Delivered
+O10891,2026-01-25,C1193,Mumbai,Maharashtra,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10892,2026-06-29,C1113,Pune,Maharashtra,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10893,2026-07-17,C1045,Kolkata,West Bengal,P005,Desk Lamp,Furniture,1,1800,10,Delivered
+O10894,2026-06-10,C1068,Hyderabad,Telangana,P005,Desk Lamp,Furniture,1,1800,15,Delivered
+O10895,2026-06-26,C1007,Delhi,Delhi,P009,Backpack,Accessories,4,1800,0,Delivered
+O10896,2026-03-04,C1049,Hyderabad,Telangana,P001,Laptop,Electronics,3,55000,10,Delivered
+O10897,2026-05-30,C1137,Mumbai,Maharashtra,P002,Smartphone,Electronics,2,25000,10,Delivered
+O10898,2026-06-03,C1164,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10899,2026-06-05,C1083,Delhi,Delhi,P005,Desk Lamp,Furniture,2,1800,15,Delivered
+O10900,2026-02-18,C1129,Delhi,Delhi,P007,T-Shirt,Clothing,4,1200,0,Delivered
+O10901,2026-03-25,C1138,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,5,Returned
+O10902,2026-06-26,C1164,Pune,Maharashtra,P003,Headphones,Electronics,1,2500,15,Delivered
+O10903,2026-05-28,C1073,Delhi,Delhi,P010,Watch,Accessories,2,4500,10,Delivered
+O10904,2026-04-28,C1046,Jaipur,Rajasthan,P002,Smartphone,Electronics,3,25000,10,Delivered
+O10905,2026-03-04,C1106,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,10,Delivered
+O10906,2026-07-08,C1160,Mumbai,Maharashtra,P010,Watch,Accessories,3,4500,10,Delivered
+O10907,2026-02-18,C1032,Bengaluru,Karnataka,P001,Laptop,Electronics,1,55000,15,Delivered
+O10908,2026-09-14,C1006,Hyderabad,Telangana,P005,Desk Lamp,Furniture,2,1800,20,Delivered
+O10909,2026-08-12,C1176,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,2,1800,10,Delivered
+O10910,2026-05-21,C1166,Lucknow,Uttar Pradesh,P007,T-Shirt,Clothing,4,1200,5,Cancelled
+O10911,2026-08-03,C1145,Hyderabad,Telangana,P004,Office Chair,Furniture,2,9000,15,Delivered
+O10912,2026-07-30,C1074,Delhi,Delhi,P003,Headphones,Electronics,4,2500,0,Delivered
+O10913,2026-02-01,C1114,Chennai,Tamil Nadu,P001,Laptop,Electronics,1,55000,5,Returned
+O10914,2026-06-07,C1027,Kolkata,West Bengal,P008,Jeans,Clothing,2,2500,15,Delivered
+O10915,2026-05-24,C1054,Bengaluru,Karnataka,P003,Headphones,Electronics,4,2500,5,Delivered
+O10916,2026-01-19,C1178,Kolkata,West Bengal,P002,Smartphone,Electronics,3,25000,5,Delivered
+O10917,2026-01-18,C1163,Kolkata,West Bengal,P004,Office Chair,Furniture,4,9000,0,Delivered
+O10918,2026-09-14,C1085,Pune,Maharashtra,P003,Headphones,Electronics,2,2500,15,Cancelled
+O10919,2026-03-19,C1127,Hyderabad,Telangana,P001,Laptop,Electronics,1,55000,10,Cancelled
+O10920,2026-06-24,C1153,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,2,2500,10,Delivered
+O10921,2026-07-13,C1156,Mumbai,Maharashtra,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10922,2026-04-23,C1111,Lucknow,Uttar Pradesh,P008,Jeans,Clothing,4,2500,15,Delivered
+O10923,2026-04-24,C1015,Kolkata,West Bengal,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10924,2026-08-10,C1132,Delhi,Delhi,P009,Backpack,Accessories,2,1800,5,Delivered
+O10925,2026-06-15,C1093,Bengaluru,Karnataka,P008,Jeans,Clothing,3,2500,10,Delivered
+O10926,2026-05-12,C1123,Ahmedabad,Gujarat,P010,Watch,Accessories,4,4500,5,Cancelled
+O10927,2026-09-21,C1073,Lucknow,Uttar Pradesh,P003,Headphones,Electronics,3,2500,20,Returned
+O10928,2026-02-24,C1155,Kolkata,West Bengal,P005,Desk Lamp,Furniture,4,1800,10,Delivered
+O10929,2026-05-11,C1154,Bengaluru,Karnataka,P007,T-Shirt,Clothing,1,1200,15,Delivered
+O10930,2026-09-23,C1147,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,3,1800,5,Delivered
+O10931,2026-06-11,C1092,Hyderabad,Telangana,P008,Jeans,Clothing,3,2500,15,Delivered
+O10932,2026-03-28,C1017,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,1,1800,15,Delivered
+O10933,2026-02-24,C1043,Pune,Maharashtra,P001,Laptop,Electronics,3,55000,10,Delivered
+O10934,2026-06-27,C1121,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,1,1800,20,Delivered
+O10935,2026-01-08,C1041,Delhi,Delhi,P004,Office Chair,Furniture,2,9000,5,Delivered
+O10936,2026-09-04,C1170,Delhi,Delhi,P006,Running Shoes,Footwear,4,3500,0,Delivered
+O10937,2026-09-12,C1178,Bengaluru,Karnataka,P003,Headphones,Electronics,1,2500,10,Returned
+O10938,2026-02-23,C1168,Delhi,Delhi,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10939,2026-09-06,C1039,Hyderabad,Telangana,P002,Smartphone,Electronics,1,25000,10,Delivered
+O10940,2026-08-27,C1113,Delhi,Delhi,P006,Running Shoes,Footwear,3,3500,5,Delivered
+O10941,2026-08-17,C1151,Lucknow,Uttar Pradesh,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10942,2026-03-08,C1111,Jaipur,Rajasthan,P005,Desk Lamp,Furniture,1,1800,5,Cancelled
+O10943,2026-02-20,C1180,Delhi,Delhi,P006,Running Shoes,Footwear,2,3500,10,Delivered
+O10944,2026-04-07,C1047,Jaipur,Rajasthan,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10945,2026-04-02,C1063,Kolkata,West Bengal,P005,Desk Lamp,Furniture,3,1800,10,Delivered
+O10946,2026-09-21,C1110,Mumbai,Maharashtra,P001,Laptop,Electronics,3,55000,5,Delivered
+O10947,2026-04-06,C1069,Hyderabad,Telangana,P008,Jeans,Clothing,2,2500,10,Delivered
+O10948,2026-03-29,C1043,Mumbai,Maharashtra,P004,Office Chair,Furniture,4,9000,5,Delivered
+O10949,2026-03-19,C1176,Kolkata,West Bengal,P009,Backpack,Accessories,1,1800,5,Delivered
+O10950,2026-04-30,C1034,Hyderabad,Telangana,P010,Watch,Accessories,1,4500,15,Delivered
+O10951,2026-06-14,C1040,Bengaluru,Karnataka,P006,Running Shoes,Footwear,3,3500,15,Delivered
+O10952,2026-07-01,C1061,Bengaluru,Karnataka,P001,Laptop,Electronics,2,55000,5,Delivered
+O10953,2026-08-11,C1178,Jaipur,Rajasthan,P003,Headphones,Electronics,2,2500,15,Delivered
+O10954,2026-01-07,C1195,Kolkata,West Bengal,P003,Headphones,Electronics,1,2500,15,Delivered
+O10955,2026-09-20,C1062,Jaipur,Rajasthan,P010,Watch,Accessories,4,4500,15,Delivered
+O10956,2026-06-10,C1058,Pune,Maharashtra,P004,Office Chair,Furniture,4,9000,5,Returned
+O10957,2026-05-31,C1161,Delhi,Delhi,P006,Running Shoes,Footwear,1,3500,20,Delivered
+O10958,2026-03-26,C1075,Ahmedabad,Gujarat,P007,T-Shirt,Clothing,1,1200,5,Delivered
+O10959,2026-05-27,C1016,Pune,Maharashtra,P010,Watch,Accessories,2,4500,5,Delivered
+O10960,2026-04-22,C1082,Delhi,Delhi,P004,Office Chair,Furniture,4,9000,0,Delivered
+O10961,2026-02-05,C1094,Hyderabad,Telangana,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10962,2026-07-07,C1048,Jaipur,Rajasthan,P001,Laptop,Electronics,1,55000,0,Delivered
+O10963,2026-03-23,C1138,Hyderabad,Telangana,P008,Jeans,Clothing,3,2500,5,Delivered
+O10964,2026-01-02,C1082,Hyderabad,Telangana,P007,T-Shirt,Clothing,1,1200,5,Delivered
+O10965,2026-07-16,C1038,Delhi,Delhi,P009,Backpack,Accessories,1,1800,15,Delivered
+O10966,2026-01-11,C1127,Kolkata,West Bengal,P003,Headphones,Electronics,4,2500,15,Delivered
+O10967,2026-08-22,C1019,Delhi,Delhi,P002,Smartphone,Electronics,2,25000,5,Delivered
+O10968,2026-07-14,C1164,Chennai,Tamil Nadu,P001,Laptop,Electronics,4,55000,15,Delivered
+O10969,2026-04-29,C1187,Bengaluru,Karnataka,P003,Headphones,Electronics,2,2500,15,Delivered
+O10970,2026-01-20,C1063,Bengaluru,Karnataka,P005,Desk Lamp,Furniture,3,1800,15,Returned
+O10971,2026-09-18,C1077,Pune,Maharashtra,P002,Smartphone,Electronics,1,25000,0,Delivered
+O10972,2026-09-13,C1174,Bengaluru,Karnataka,P003,Headphones,Electronics,3,2500,10,Delivered
+O10973,2026-08-10,C1131,Delhi,Delhi,P004,Office Chair,Furniture,2,9000,15,Delivered
+O10974,2026-08-14,C1102,Lucknow,Uttar Pradesh,P007,T-Shirt,Clothing,4,1200,10,Delivered
+O10975,2026-02-22,C1065,Jaipur,Rajasthan,P003,Headphones,Electronics,4,2500,5,Delivered
+O10976,2026-03-22,C1120,Delhi,Delhi,P009,Backpack,Accessories,3,1800,10,Delivered
+O10977,2026-07-21,C1091,Delhi,Delhi,P008,Jeans,Clothing,2,2500,10,Delivered
+O10978,2026-06-07,C1008,Ahmedabad,Gujarat,P004,Office Chair,Furniture,3,9000,10,Delivered
+O10979,2026-04-30,C1179,Jaipur,Rajasthan,P001,Laptop,Electronics,3,55000,0,Delivered
+O10980,2026-02-28,C1073,Chennai,Tamil Nadu,P001,Laptop,Electronics,1,55000,5,Delivered
+O10981,2026-08-03,C1134,Bengaluru,Karnataka,P001,Laptop,Electronics,3,55000,15,Delivered
+O10982,2026-05-08,C1107,Jaipur,Rajasthan,P001,Laptop,Electronics,1,55000,15,Delivered
+O10983,2026-08-12,C1089,Bengaluru,Karnataka,P008,Jeans,Clothing,1,2500,0,Delivered
+O10984,2026-07-28,C1039,Pune,Maharashtra,P003,Headphones,Electronics,4,2500,20,Delivered
+O10985,2026-04-25,C1113,Jaipur,Rajasthan,P006,Running Shoes,Footwear,1,3500,5,Delivered
+O10986,2026-07-28,C1188,Bengaluru,Karnataka,P003,Headphones,Electronics,1,2500,10,Delivered
+O10987,2026-01-14,C1028,Chennai,Tamil Nadu,P005,Desk Lamp,Furniture,4,1800,15,Delivered
+O10988,2026-01-09,C1097,Mumbai,Maharashtra,P007,T-Shirt,Clothing,3,1200,15,Delivered
+O10989,2026-02-09,C1182,Hyderabad,Telangana,P002,Smartphone,Electronics,2,25000,15,Delivered
+O10990,2026-08-25,C1037,Hyderabad,Telangana,P006,Running Shoes,Footwear,2,3500,5,Delivered
+O10991,2026-07-20,C1137,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,2,3500,15,Delivered
+O10992,2026-09-03,C1082,Ahmedabad,Gujarat,P003,Headphones,Electronics,3,2500,0,Delivered
+O10993,2026-08-23,C1056,Mumbai,Maharashtra,P006,Running Shoes,Footwear,1,3500,10,Delivered
+O10994,2026-01-04,C1187,Pune,Maharashtra,P010,Watch,Accessories,2,4500,10,Delivered
+O10995,2026-06-03,C1085,Chennai,Tamil Nadu,P010,Watch,Accessories,3,4500,10,Delivered
+O10996,2026-01-29,C1002,Hyderabad,Telangana,P005,Desk Lamp,Furniture,1,1800,5,Delivered
+O10997,2026-04-19,C1189,Hyderabad,Telangana,P002,Smartphone,Electronics,4,25000,15,Delivered
+O10998,2026-04-08,C1058,Hyderabad,Telangana,P009,Backpack,Accessories,2,1800,5,Delivered
+O10999,2026-08-03,C1107,Kolkata,West Bengal,P008,Jeans,Clothing,1,2500,0,Delivered
+O11000,2026-03-16,C1123,Chennai,Tamil Nadu,P003,Headphones,Electronics,2,2500,10,Delivered
